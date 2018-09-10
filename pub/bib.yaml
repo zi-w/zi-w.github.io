@@ -1,0 +1,107 @@
+- ENTRYTYPE: inproceedings
+  ID: wangNIPS2018
+  author: Zi Wang*, Beomjoon Kim* and Leslie Pack Kaelbling
+  booktitle: Advances in Neural Information Processing Systems (NIPS)
+  keywords: Gaussian process, Bayesian optimization
+  title: Regret bounds for meta Bayesian optimization with an unknown Gaussian process
+    prior
+  url: ''
+  img: /images/pub/noprior.png
+  year: '2018'
+- ENTRYTYPE: inproceedings
+  ID: wangIROS2018
+  author: Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomas Lozano-Perez
+  booktitle: International Conference on Intelligent Robots and Systems (IROS)
+  title: Active model learning and diverse action sampling for task and motion planning
+  url: http://lis.csail.mit.edu/pubs/wang-iros18.pdf
+  year: '2018'
+  project: /projects/kitchen2d
+  code: https://github.com/zi-w/Kitchen2D
+  img: /images/pub/kitchen2d.png
+- ENTRYTYPE: inproceedings
+  ID: wangAISTATS2018
+  author: Zi Wang, Clement Gehring, Pushmeet Kohli and Stefanie Jegelka
+  booktitle: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  keywords: Learning and Optimization
+  title: Batched Large-scale Bayesian Optimization in High-dimensional Spaces
+  url: http://lis.csail.mit.edu/pubs/wang-aistats18.pdf
+  year: '2018'
+  code: https://github.com/zi-w/Ensemble-Bayesian-Optimization
+  img: /images/pub/9.png
+- ENTRYTYPE: inproceedings
+  ID: wangICRA17
+  author: Zi Wang, Stefanie Jegelka, Leslie Pack Kaelbling and Tomas Lozano-Perez
+  booktitle: IEEE Conference on Robotics and Automation (ICRA)
+  keywords: Learning and Optimization
+  title: Focused Model-Learning and Planning for Non-Gaussian Continuous State-Action
+    Systems
+  url: http://lis.csail.mit.edu/pubs/wang-icra17.pdf
+  year: '2017'
+  project: /projects/mlp
+  slides: https://www.icloud.com/keynote/0SYOebCF3GXhkYjnf0Q0Jn5Uw#talk
+  img: /images/pub/6.png
+- ENTRYTYPE: inproceedings
+  ID: wangICML2017b
+  author: Zi Wang and Stefanie Jegelka
+  booktitle: International Conference on Machine Learning (ICML)
+  keywords: Learning and Optimization
+  title: Max-value Entropy Search for Efficient Bayesian Optimization
+  url: http://lis.csail.mit.edu/pubs/wang-icml17b.pdf
+  year: '2017'
+  code: https://github.com/zi-w/Max-value-Entropy-Search
+  slides: https://www.icloud.com/keynote/0FxhBnGLGBPCopqQH_v8xF_Vw#maxvalue
+  img: /images/pub/7.png
+- ENTRYTYPE: inproceedings
+  ID: wangICML2017a
+  author: Zi Wang*, Chengtao Li*, Stefanie Jegelka and Pushmeet Kohli
+  booktitle: International Conference on Machine Learning (ICML)
+  keywords: Learning and Optimization
+  title: Batched High-dimensional Bayesian Optimization via Structural Kernel Learning
+  url: http://lis.csail.mit.edu/pubs/wang-icml17a.pdf
+  year: '2017'
+  code: https://github.com/zi-w/Structural-Kernel-Learning-for-HDBBO
+  slides: https://www.icloud.com/keynote/0LBVoOAXm9JJIzgKlqpjrQThA#skl
+  img: /images/pub/8.png
+- ENTRYTYPE: inproceedings
+  ID: wang-aistats16
+  author: Zi Wang, Bolei Zhou and Stefanie Jegelka
+  booktitle: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  keywords: Learning and Optimization
+  title: Optimization as Estimation with {G}aussian Processes in Bandit Settings
+  url: http://lis.csail.mit.edu/pubs/wang-aistats16.pdf
+  year: '2016'
+  code: https://github.com/zi-w/GP-EST
+  project: /projects/gp-est
+  slides: /pub/gpest_slides.pdf
+  img: /images/pub/5.png
+- ENTRYTYPE: article
+  ID: lu_nipspos_2014
+  author: Zhiyun Lu*, Zi Wang* and Fei Sha
+  booktitle: 'NIPS Workshop: Perturbations, Optimization, and Statistics'
+  title: Fast Learning with Noise in Deep Neural Nets
+  url: https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf
+  year: '2014'
+  img: /images/pub/3.png
+- ENTRYTYPE: inproceedings
+  ID: wang_icassp_2014
+  author: Zi Wang and Fei Sha
+  booktitle: IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  title: Discriminative Non-Negative Matrix Factorization for Single-Channel Speech
+    Separation
+  url: https://ieeexplore.ieee.org/document/6854302/
+  year: '2014'
+  project: /projects/dnmf
+  poster: /projects/dnmf/wiml.pdf
+  img: /images/pub/1.png
+- ENTRYTYPE: inproceedings
+  ID: chen_nips_2013
+  author: Jianfei Chen, Jun Zhu, Zi Wang, Xun Zheng and Bo Zhang
+  booktitle: Advances in Neural Information Processing Systems (NIPS)
+  title: Scalable Inference for Logistic-Normal Topic Models
+  url: http://papers.nips.cc/paper/4981-scalable-inference-for-logistic-normal-topic-models
+  year: '2013'
+  project: /projects/gctm
+  poster: /projects/gctm/scalablectm_nips.pdf
+  code: http://ml-thu.net/~jianfei/static/ScaCTM.tar.gz
+  img: /images/pub/2.png
