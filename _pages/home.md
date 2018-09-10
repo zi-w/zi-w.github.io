@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical Engineering & Computer Science at MIT](http://www.eecs.mit.edu/). I am a member of the [Learning & Intelligent Systems Group](http://lis.csail.mit.edu/new/) at [CSAIL](https://www.csail.mit.edu/) and the [Machine Learning Group](http://ml.mit.edu/) at MIT. I am working with [Prof. Stefanie Jegelka](http://people.csail.mit.edu/stefje/), [Prof. Leslie Pack Kaelbling](http://people.csail.mit.edu/lpk/), and [Prof. Tomás Lozano-Pérez](http://people.csail.mit.edu/tlp/) on exciting projects about active learning and Bayesian optimization with an ultimate goal of embedding the learning abilities in robots that are capable of acting intelligently in various settings like homes, factories and disaster rescues.
+Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical Engineering & Computer Science at MIT](http://www.eecs.mit.edu/). I am a member of the [Learning & Intelligent Systems Group](http://lis.csail.mit.edu/new/) at [CSAIL](https://www.csail.mit.edu/) and the [Machine Learning Group](http://ml.mit.edu/) at MIT. I am working with [Prof. Stefanie Jegelka](http://people.csail.mit.edu/stefje/), [Prof. Leslie Pack Kaelbling](http://people.csail.mit.edu/lpk/), and [Prof. Tomás Lozano-Pérez](http://people.csail.mit.edu/tlp/) on exciting projects about active learning and Bayesian optimization with an ultimate goal of embedding the learning abilities in autonomous robots.
 
 
 ### Recent News
