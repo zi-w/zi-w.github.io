@@ -9,15 +9,16 @@ div.text {display:inline-block;zoom:1;display*:inline;text-align:left;margin-lef
 div.title a:hover{text-decoration:none}
 div.publication{padding-top:0px;padding-bottom:0px}
 div.publication div.img{max-width:300px;padding-right:10px}
-div.publication div.text{max-width:1000px;text-align:left}
+div.publication div.text{text-align:left}
 
-@media only screen and (max-width: 599px) {
+@media only screen and (max-width: 64em) {
     div.publication div.img{display:none}
     div.publication div.text{text-align:left}
     div.publication {padding-top:0px;padding-bottom:10px}
     body{font-size:80%}
+    div.twitter_feed{display:none}
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 64em) {
     div.publication div.img{max-width:23%}
     div.publication div.text{max-width:72%;text-align:left}
 }
