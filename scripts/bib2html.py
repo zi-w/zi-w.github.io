@@ -53,6 +53,8 @@ for i in sorted(by_year.keys(), reverse = True):
     </div>         \n \
     <div>         \n \
       <em>{}, {}</em> \n <br> \n'.format( tmp, p['img'], p['ID'], tmp, p['title'], p['author'], p['booktitle'], p['year'] )) 
+    if 'other' in p:
+      f.write('\n {} \n <br> \n'.format(p['other']))
     if 'project' in p:
       f.write(' \n \
       <a class="btn btn--primary btn--small" href="{}">Project page</a>         \n \

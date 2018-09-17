@@ -19,6 +19,9 @@ toc_sticky: true
      <div>         
        <em>Advances in Neural Information Processing Systems (NIPS), 2018</em> 
  <br> 
+
+ <font color="red">Spotlight talk</font> (3.5% acceptance rate) 
+ <br> 
  
        <a class="btn btn--success btn--small" href="">PDF</a>         
          
@@ -147,6 +150,9 @@ toc_sticky: true
      <div>         
        <em>International Conference on Artificial Intelligence and Statistics (AISTATS), 2016</em> 
  <br> 
+
+ <font color="red">Oral</font> (6% acceptance rate) 
+ <br> 
  
        <a class="btn btn--primary btn--small" href="/projects/gp-est">Project page</a>         
           
@@ -171,6 +177,9 @@ toc_sticky: true
      </div>         
      <div>         
        <em>NIPS Workshop: Perturbations, Optimization, and Statistics, 2014</em> 
+ <br> 
+
+ <font color="red">Spotlight talk</font> 
  <br> 
  
        <a class="btn btn--success btn--small" href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf">PDF</a>         

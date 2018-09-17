@@ -8,6 +8,7 @@
   url: ''
   img: /images/pub/noprior.png
   year: '2018'
+  other: <font color="red">Spotlight talk</font> (3.5% acceptance rate)
 - ENTRYTYPE: inproceedings
   ID: wangIROS2018
   author: Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomas Lozano-Perez
@@ -74,6 +75,7 @@
   project: /projects/gp-est
   slides: /pub/gpest_slides.pdf
   img: /images/pub/5.png
+  other: <font color="red">Oral</font> (6% acceptance rate)
 - ENTRYTYPE: article
   ID: lu_nipspos_2014
   author: Zhiyun Lu*, Zi Wang* and Fei Sha
@@ -82,6 +84,7 @@
   url: https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf
   year: '2014'
   img: /images/pub/3.png
+  other: <font color="red">Spotlight talk</font> 
 - ENTRYTYPE: inproceedings
   ID: wang_icassp_2014
   author: Zi Wang and Fei Sha
