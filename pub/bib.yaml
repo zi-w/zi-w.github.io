@@ -5,7 +5,7 @@
   keywords: Gaussian process, Bayesian optimization
   title: Regret bounds for meta Bayesian optimization with an unknown Gaussian process
     prior
-  url: ''
+  url: /pub/wang-nips18.pdf
   img: /images/pub/noprior.png
   year: '2018'
   other: <font color="red">Spotlight talk</font> (3.5% acceptance rate)
