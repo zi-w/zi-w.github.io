@@ -9,6 +9,7 @@
   img: /images/pub/noprior.png
   year: '2018'
   other: <font color="red">Spotlight talk</font> (3.5% acceptance rate)
+  slides: /pub/msr_ai.pdf
 - ENTRYTYPE: inproceedings
   ID: wangIROS2018
   author: Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomas Lozano-Perez
@@ -19,6 +20,7 @@
   project: /projects/kitchen2d
   code: https://github.com/zi-w/Kitchen2D
   img: /images/pub/kitchen2d.png
+  slides: /pub/ltamp/index.html
 - ENTRYTYPE: inproceedings
   ID: wangAISTATS2018
   author: Zi Wang, Clement Gehring, Pushmeet Kohli and Stefanie Jegelka

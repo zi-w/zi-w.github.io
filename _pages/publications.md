@@ -25,6 +25,8 @@ toc_sticky: true
  
        <a class="btn btn--success btn--small" href="/pub/wang-nips18.pdf">PDF</a>         
          
+       <a class="btn btn--info btn--small" href="/pub/msr_ai.pdf">Slides</a>         
+       
      </div>         
    </div>         
  </div> 
@@ -47,6 +49,8 @@ toc_sticky: true
           
        <a class="btn btn--warning btn--small" href="https://github.com/zi-w/Kitchen2D">Code</a>         
          
+       <a class="btn btn--info btn--small" href="/pub/ltamp/index.html">Slides</a>         
+       
      </div>         
    </div>         
  </div> 
