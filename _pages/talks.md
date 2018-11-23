@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 layout: single_noauthor 
 ---
-- [Oct 3, 2018] Active model learning and diverse action sampling for task and motion planning @ IROS 2018, Madrid, Spain. [spotlight]
+- [Oct 3, 2018] Active model learning and diverse action sampling for task and motion planning (spotlight) @ IROS 2018, Madrid, Spain. 
 - [Sep 20, 2018] Active model learning and diverse action sampling for task and motion planning @ University of Washington, Seattle, WA. [slides](https://ziw.mit.edu/pub/ltamp)
 - [Sep 18, 2018] Regret bound of Bayesian optimization with unknown GP priors @ Microsoft Research AI Breakthroughs Workshop, Redmond, WA. 
 - [Jul 3, 2018] Bayesian Optimization Guided by Max-values @ ISMP 2018, Bordeaux, France. [slides](https://www.icloud.com/keynote/0iOMOD8vx385JepjFFJWCXl4A#bo%5Ftalk)
