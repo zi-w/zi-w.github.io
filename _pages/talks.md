@@ -4,8 +4,9 @@ permalink: /talks/
 author_profile: true
 layout: single_noauthor 
 ---
-
-
+- [Oct 3, 2018] Active model learning and diverse action sampling for task and motion planning @ IROS 2018, Madrid, Spain. [spotlight]
+- [Sep 20, 2018] Active model learning and diverse action sampling for task and motion planning @ University of Washington, Seattle, WA. [slides](https://ziw.mit.edu/pub/ltamp)
+- [Sep 18, 2018] Regret bound of Bayesian optimization with unknown GP priors @ Microsoft Research AI Breakthroughs Workshop, Redmond, WA. 
 - [Jul 3, 2018] Bayesian Optimization Guided by Max-values @ ISMP 2018, Bordeaux, France. [slides](https://www.icloud.com/keynote/0iOMOD8vx385JepjFFJWCXl4A#bo%5Ftalk)
 - [Mar 9, 2018] Integrating model learning and TAMP @ LIS, MIT, Cambridge, MA. [slides available upon request]
 - [Nov 30, 2017] Bayesian Optimization and How to Scale It Up @ Computer Science Colloquium, University of Southern California, Los Angeles, CA. [slides](http://zi-wang.com/pub/bo_talk_usc.pdf)

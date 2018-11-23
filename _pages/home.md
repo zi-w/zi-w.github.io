@@ -9,7 +9,6 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 
 ### Recent News
-
 - [Sep 2018] Paper accepted at NIPS 2018 as spotlight.
 - [Jul 2018] Will be a ["2018 Rising Star in EECS"](https://risingstars18-eecs.mit.edu/participant-wang-zi/).
 - [Jun 2018] Paper accepted at IROS 2018.
