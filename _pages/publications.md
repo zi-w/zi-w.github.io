@@ -11,9 +11,9 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/pub/wang-nips18.pdf"><img class="img_responsive" src="/images/pub/noprior.png"></a></div>         
+   <div class="img"><a href="/pub/meta_bo/main.pdf"><img class="img_responsive" src="/images/pub/noprior.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangNIPS2018" href="/pub/wang-nips18.pdf">Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior</a></div>         
+     <div class="title"><a name="wangNIPS2018" href="/pub/meta_bo/main.pdf">Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior</a></div>         
      <div class="authors">Zi Wang*, Beomjoon Kim* and Leslie Pack Kaelbling         
      </div>         
      <div>         
@@ -23,9 +23,9 @@ toc_sticky: true
  <font color="red">Spotlight talk</font> (3.5% acceptance rate) 
  <br> 
  
-       <a class="btn btn--success btn--small" href="/pub/wang-nips18.pdf">PDF</a>         
+       <a class="btn btn--success btn--small" href="/pub/meta_bo/main.pdf">PDF</a>         
          
-       <a class="btn btn--info btn--small" href="/pub/msr_ai.pdf">Slides</a>         
+       <a class="btn btn--danger btn--small" href="/pub/meta_bo/poster.pdf">Poster</a>         
        
      </div>         
    </div>         

@@ -5,11 +5,11 @@
   keywords: Gaussian process, Bayesian optimization
   title: Regret bounds for meta Bayesian optimization with an unknown Gaussian process
     prior
-  url: /pub/wang-nips18.pdf
+  url: /pub/meta_bo/main.pdf
   img: /images/pub/noprior.png
   year: '2018'
   other: <font color="red">Spotlight talk</font> (3.5% acceptance rate)
-  slides: /pub/msr_ai.pdf
+  poster: /pub/meta_bo/poster.pdf
 - ENTRYTYPE: inproceedings
   ID: wangIROS2018
   author: Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomas Lozano-Perez
