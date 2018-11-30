@@ -10,6 +10,8 @@
   year: '2018'
   other: <font color="red">Spotlight talk</font> (3.5% acceptance rate)
   poster: /pub/meta_bo/poster.pdf
+  project: /meta_bo
+  code: https://github.com/beomjoonkim/MetaLearnBO
 - ENTRYTYPE: inproceedings
   ID: wangIROS2018
   author: Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomas Lozano-Perez
