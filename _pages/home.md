@@ -21,4 +21,4 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 
 ### Contact
-Email: ziw 'at' mit 'dot' edu
+Email: ziw 'at' csail 'dot' mit 'dot' edu
