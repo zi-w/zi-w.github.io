@@ -14,7 +14,7 @@ toc_sticky: true
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf"><img class="img_responsive" src="/images/pub/spare.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="xiaICLR2019" href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf">Learning sparse relational transition models</a></div>         
-     <div class="authors">Victoria Xia, Zi Wang, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling         
+     <div class="authors">Victoria Xia*, Zi Wang*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling         
      </div>         
      <div>         
        <em>International Conference on Learning Representations (ICLR), 2019</em> 

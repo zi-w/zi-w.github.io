@@ -1,6 +1,6 @@
 - ENTRYTYPE: inproceedings
   ID: xiaICLR2019
-  author: Victoria Xia, Zi Wang, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling
+  author: Victoria Xia*, Zi Wang*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling
   booktitle: International Conference on Learning Representations (ICLR)
   title: Learning sparse relational transition models
   url: http://lis.csail.mit.edu/pubs/xia-iclr19.pdf
