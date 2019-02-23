@@ -1,4 +1,20 @@
 - ENTRYTYPE: inproceedings
+  ID: xiaICLR2019
+  author: Victoria Xia, Zi Wang, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling
+  booktitle: International Conference on Learning Representations (ICLR)
+  title: Learning sparse relational transition models
+  url: http://lis.csail.mit.edu/pubs/xia-iclr19.pdf
+  img: /images/pub/spare.png
+  year: '2019'
+- ENTRYTYPE: journal
+  ID: kimIJRR2019
+  author: Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomas Lozano-Perez
+  booktitle: International Journal of Robotics Research (IJRR)
+  title: Learning to guide task and motion planning using score-space representation
+  url: https://arxiv.org/pdf/1807.09962.pdf
+  img: /images/pub/score.png
+  year: '2019'
+- ENTRYTYPE: inproceedings
   ID: wangNIPS2018
   author: Zi Wang*, Beomjoon Kim* and Leslie Pack Kaelbling
   booktitle: Advances in Neural Information Processing Systems (NIPS)

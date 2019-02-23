@@ -7,6 +7,43 @@ toc: true
 toc_label: "Publication List" 
 toc_sticky: true 
 ---
+## 2019
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf"><img class="img_responsive" src="/images/pub/spare.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="xiaICLR2019" href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf">Learning sparse relational transition models</a></div>         
+     <div class="authors">Victoria Xia, Zi Wang, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling         
+     </div>         
+     <div>         
+       <em>International Conference on Learning Representations (ICLR), 2019</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/pdf/1807.09962.pdf"><img class="img_responsive" src="/images/pub/score.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="kimIJRR2019" href="https://arxiv.org/pdf/1807.09962.pdf">Learning to guide task and motion planning using score-space representation</a></div>         
+     <div class="authors">Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomas Lozano-Perez         
+     </div>         
+     <div>         
+       <em>International Journal of Robotics Research (IJRR), 2019</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/1807.09962.pdf">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
 ## 2018
 
  <div class="publication">          
