@@ -9,6 +9,8 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 
 ### Recent News
+- [Feb 2019] Paper accepted at ICLR, congrats to our MEng alumna Victoria Xia!
+- [Jan 2019] Paper accepted at IJRR, congrats to my colleague Beomjoon Kim!
 - [Sep 2018] Paper accepted at NIPS 2018 as spotlight.
 - [Jul 2018] Will be a ["2018 Rising Star in EECS"](https://risingstars18-eecs.mit.edu/participant-wang-zi/).
 - [Jun 2018] Paper accepted at IROS 2018.
