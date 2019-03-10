@@ -21,7 +21,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 - [Apr 2016] [Oral presentation and zero-th time Best Paper Award nominee at SIGTBD.](https://ziw.mit.edu/pub/sigtbd2016.pdf) 
 - [Feb 2016] NEW ACHIEVEMENT: "Master of Science" in Electrical Engineering and Computer Science.
 - [Dec 2015] [Paper accepted as oral presentation at AISTATS 2016.](https://ziw.mit.edu/projects/gp-est/)
-- [Aug 2015] TAing [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html) this semester.
+- [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
 
 
 ### Contact
