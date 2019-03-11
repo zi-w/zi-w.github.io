@@ -23,6 +23,10 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 - [Dec 2015] [Paper accepted as oral presentation at AISTATS 2016.](https://ziw.mit.edu/projects/gp-est/)
 - [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
 
+### My Other Favorite Achievements
+- To be continued...
+- [Feb 2014] I successfully got my first paid job at USC working with Prof. Fei Sha. I then bought something expensive for myself as a reward since my rent was dirt cheap and my family was still supporting me financially at that time. 
+- [Dec 2013] I went to NIPS 13 (now NeurIPS) for the first time. And my trip was entirely paid by my group (advised by Prof. Jun Zhu) at Tsinghua University. I also rent a car and drove >5 hrs to Las Vegas and Los Angeles afterwards, with a friend and the cost was on our own. 
 
 ### Contact
 Email: ziw 'at' csail 'dot' mit 'dot' edu
