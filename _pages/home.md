@@ -18,7 +18,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 - [Jul 2017] NEW ACHIEVEMENT: I interned at [UBER ATG](https://www.uber.com/info/atg/) working on [safe, reliable and intelligent autonomous driving systems with both the Prediction Team and the Motion Planning Team](https://www.uber.com/info/atg/technology/). 
 - [May 2017] [Two papers accepted at ICML 2017.](https://ziw.mit.edu/publications/#2017)
 - [Jan 2017] [Paper accepted at ICRA 2017.](https://ziw.mit.edu/projects/mlp/)
-- [Apr 2016] [Oral presentation and zero-th time Best Paper Award nominee at SIGTBD.](https://ziw.mit.edu/pub/sigtbd2016.pdf) 
+- [Apr 2016] [Oral presentation and zero-th time Best Paper Award nominee at SIGTBD: Motion Planning using Naturally Annoying Grammars (NAGs).](https://ziw.mit.edu/pub/sigtbd2016.pdf) 
 - [Feb 2016] NEW ACHIEVEMENT: "Master of Science" in Electrical Engineering and Computer Science.
 - [Dec 2015] [Paper accepted as oral presentation at AISTATS 2016.](https://ziw.mit.edu/projects/gp-est/)
 - [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
