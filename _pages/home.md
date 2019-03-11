@@ -26,6 +26,8 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 ### My Favorite Life Achievements
 - [Sep 2017] [I got married to the most wonderful guy in the world!](http://zwyls.com/)
 - [May 2017] I successfully argued back about $5000 tax mispayment to the IRS, with advice from my law school friend, self-education on the tax laws and treaties, and patience to the long calls to the IRS. 
+- [Feb 2017] I successfully finished two papers submitted to ICML 17 with collaborators. It was quite a lot of work but at the same time gratifying. 
+- [Apr 2016] I did my first long oral presentation (20 min) at a machine learning conference, AISTATS 16, at a beautiful town in Spain called Cádiz. I went on a trip to Barcelona and Madrid afterwards with a friend and we enjoyed a lot of great sangria and all kinds of paella. 
 - [Feb 2014] I successfully got my first paid job at USC working with [Prof. Fei Sha](http://www-bcf.usc.edu/~feisha/), after an exchange program at USC in the summer of 2013. 
 - [Dec 2013] I went to my first machine learning conference, NIPS'13 (now NeurIPS), to present a collaborated project supervised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) at Tsinghua University. I also rented a car and went on a road trip to Las Vegas and Los Angeles afterwards with my friend. Good old days.
 
