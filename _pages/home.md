@@ -25,6 +25,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 ### My Favorite Life Achievements
 - [Sep 2017] [I got married to the most wonderful guy in the world!](http://zwyls.com/)
+- [Spring 2017] I was on the Graduate Focus Group for the 2017 EECS Visiting Committee. We successfully put together a report on the pressing issues at our department, including my topics on the support for international graduate students in terms of practical training (starting from 2016, international students from EECS can no longer use Curriculum Practical Training (CPT) for internships), career development, and mental health issues. Our department was able to swiftly respond to the CPT problem and implemented solutions to our PhD degree requirements in 2018 to meet [the regulations set by the U.S. Immigration and Customs Enforcement (ICE)](https://www.ice.gov/sevis/practical-training).
 - [May 2017] I successfully argued back about $5000 tax mispayment to the IRS, with advice from my law school friend, self-education on the tax laws and treaties, and patience to the long calls to the IRS. 
 - [Feb 2017] I successfully finished two papers submitted to ICML 17 with collaborators. It was quite a lot of work but at the same time gratifying. 
 - [Apr 2016] I did my first long oral presentation (20 min) at a machine learning conference, AISTATS 16, at a beautiful town in Spain called Cádiz. I went on a trip to Barcelona and Madrid afterwards with a friend and we enjoyed a lot of great sangria and all kinds of paella. 
