@@ -38,6 +38,6 @@ Email: ziw 'at' csail 'dot' mit 'dot' edu
 
 If you have generic questions about having a life at graduate schools, advisor-advisee relationships, mental health issues or research, and you feel like an answer to those can also benefit other people, please consider [posting a question on Quora and notify me about it via email and/or a Quora request](https://www.quora.com/profile/Zi-Wang-21). 
 
-If you want my short comments on the issues similar to the topics listed above, please consider [tweeting to me on Twitter](https://twitter.com/ziwphd).
+If you want my short comments on the issues similar to the topics listed above, please consider [tweeting to me on Twitter](https://twitter.com/ziwphd). I highly recommend this method because you may be able to get a slightly faster response.
 
 If I don’t reply to your email in 5 days, it’s likely my MIT email is having trouble again. So maybe send another one, or send an email to my friends instead, or write me a physical letter or postcard (32 Vassar St. 32-G414, Cambridge, MA 02139), or find me at free food events at MIT.
