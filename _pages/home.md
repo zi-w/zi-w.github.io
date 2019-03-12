@@ -40,4 +40,4 @@ If you have generic questions about my research on Artificial Intelligence/Machi
 
 If you want my short comments on the issues similar to the topics listed above, please consider [tweeting to me on Twitter](https://twitter.com/ziwphd). I highly recommend this method because you may be able to get a slightly faster response.
 
-If I don’t reply to your email in 5 days, it’s likely my MIT email is having trouble again. So maybe send another one, or send an email to my friends instead, or write me a physical letter or postcard (32 Vassar St. 32-G414, Cambridge, MA 02139), or find me at free food events at MIT.
+If I don’t reply to your email in 5 days, it’s likely my MIT email is having trouble again on filtering. So maybe send another one, or send an email to my friends instead, or write me a physical letter or postcard (32 Vassar St. 32-G414, Cambridge, MA 02139), or find me at free food events at MIT.
