@@ -36,7 +36,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 ### Contact
 Email: ziw 'at' csail 'dot' mit 'dot' edu
 
-If you have generic questions about having a life at graduate schools, advisor-advisee relationships, mental health issues or research, and you feel like an answer to those can also benefit other people, please consider [posting a question on Quora and notify me about it via email and/or a Quora request](https://www.quora.com/profile/Zi-Wang-21). 
+If you have generic questions about my research on Artificial Intelligence/Machine Learning, having a life at competitive graduate schools like MIT, advisor-advisee relationships or mental health issues, and you feel like an answer to those can also benefit other people, please consider [posting a question on Quora and notify me about it via email and/or a Quora request](https://www.quora.com/profile/Zi-Wang-21). 
 
 If you want my short comments on the issues similar to the topics listed above, please consider [tweeting to me on Twitter](https://twitter.com/ziwphd). I highly recommend this method because you may be able to get a slightly faster response.
 
