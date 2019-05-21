@@ -14,6 +14,7 @@ I am working on registering a church for the followers of Bayes. Please email me
 
 ### My Academic Achievements and Milestones
 - [May 2019] NEW ACHIEVEMENT: honored to be part of ["RSS Pioneers 2019"](http://rss2019.informatik.uni-freiburg.de/RSS_Pioneers_2019_Camera_Ready/63.pdf), a cohort of the world’s top early career researchers in robotics. 
+- [Apr 2019] NEW ACHIEVEMENT: honored to be awarded ["MIT Graduate Women of Excellence"](https://twitter.com/ziwphd/status/1123022290403328000), in recognition of my leadership and service, dedication to mentoring, and drive to improve the student experience. 
 - [Feb 2019] [Paper accepted at ICLR](http://lis.csail.mit.edu/pubs/xia-iclr19.pdf), congrats to our MEng alumna and my fabulous mentee, Victoria Xia!
 - [Jan 2019] [Paper accepted at IJRR](https://arxiv.org/pdf/1807.09962.pdf), congrats to my colleague and ICRA best paper award recipient, [Beomjoon Kim](http://people.csail.mit.edu/beomjoon/)!
 - [Sep 2018] [Paper accepted at NIPS 2018 as spotlight.](https://ziw.mit.edu/meta_bo/)
