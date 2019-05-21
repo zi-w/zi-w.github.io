@@ -9,7 +9,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 I am currently looking for postdoc positions or other interesting opportunities where I can continue my research on HIAAI. Please let me know via email if you are able to hire me from Sep 2019 to Sep 2020. I am open to nontrivial positions for presidential campaigns too.
 
-I am working on registering a new church for the followers of Bayes. Please email me if you are very smart, interesting or kind enough to donate to our church. [More Information](https://twitter.com/ziwphd/status/1122851618637193216)
+I am working on registering a church for the followers of Bayes. Please email me with "the followers of Bayes" in the email subject title if you would like to donate. [More Information](https://twitter.com/ziwphd/status/1122851618637193216)
 
 
 ### My Academic Achievements and Milestones
