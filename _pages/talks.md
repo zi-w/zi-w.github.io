@@ -4,6 +4,9 @@ permalink: /talks/
 author_profile: true
 layout: single_noauthor 
 ---
+- [Jun 21, 2019] Human intelligence assisted robot learning @ RSS Pioneers 2019, University of Freiburg, Freiburg, Germany.
+- [Jun 19, 2019] Human intelligence assisted robot learning @ Machine Learning & Robotics Lab, University Stuttgart, Stuttgart, Germany. 
+- [Jun 18, 2019] Human intelligence assisted robot learning @ Shift Technology, Paris, France. 
 - [Oct 3, 2018] Active model learning and diverse action sampling for task and motion planning (spotlight) @ IROS 2018, Madrid, Spain. 
 - [Sep 20, 2018] Active model learning and diverse action sampling for task and motion planning @ University of Washington, Seattle, WA. [slides](https://ziw.mit.edu/pub/ltamp)
 - [Sep 18, 2018] Regret bound of Bayesian optimization with unknown GP priors @ Microsoft Research AI Breakthroughs Workshop, Redmond, WA. 
