@@ -9,7 +9,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 I released the info page for my thesis (Human Intelligence Assisted Robot Learning) including the thesis proposal, slides, poster, and videos: [HIARL.info](https://www.hiarl.info).
 
-I am currently looking for postdoc positions or other interesting opportunities preferrably around Boston area (Sep 2019 - Sep 2021). 
+I am currently looking for postdoc positions or other interesting opportunities preferably around Boston area (Sep 2019 - Sep 2021). 
 
 
 ### My Academic Achievements and Milestones
