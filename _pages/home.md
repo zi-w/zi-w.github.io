@@ -9,7 +9,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 I released the info page for my thesis (Human Intelligence Assisted Robot Learning) including the thesis proposal, slides, poster, and videos: [HIARL.info](https://www.hiarl.info).
 
-I am currently looking for postdoc positions or other interesting opportunities preferably around Boston area (Sep 2019 - Sep 2021). 
+I am currently looking for postdoc positions or other interesting opportunities preferably around Boston area (5hr radius).
 
 
 ### My Academic Achievements and Milestones
@@ -29,6 +29,7 @@ I am currently looking for postdoc positions or other interesting opportunities 
 - [Dec 2015] [Paper accepted as oral presentation at AISTATS 2016.](https://ziw.mit.edu/projects/gp-est/)
 - [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
 
+<!--
 ### My Favorite Life Achievements
 - [Mar 2019] I still felt sad that we as a community cannot solve AI in our generation. But I am ready to kiss-goodbye all my past failed efforts and start doing Human Intelligence Assisted AI (HIAAI) and Machine Intelligence Assisted Human Learning. I have always wanted to study psychology since elementary school but I was not able to stick with my own ambition due to various family persuasion. But in hindsight, it may not be a bad idea to learn something "harder" (e.g. computer science and math) first anyways. Maybe it is time for me to slightly shift my focus from machines to humans now. 
 - [Sep 2018] My mentee, Victoria, successfully submitted [her first paper to a machine learning conference, ICLR](https://openreview.net/pdf?id=SJxsV2R5FQ) with the help from our collaborators and our joint advisor, Leslie. This was the first time a UROP or MEng student who worked with me had the courage to continue doing research on one of the hardest problems in AI/ML/Robotics and eventually wrap up her work into a paper. This was one of the most gratifying moments in my PhD career and I sincerely hope there will be more courageous students working with me in the future.
@@ -41,11 +42,11 @@ I am currently looking for postdoc positions or other interesting opportunities 
 - [Apr 2016] I did [my first long oral presentation (20 min)](https://ziw.mit.edu/publications/#2016) at a machine learning conference, AISTATS 16, at a beautiful town in Spain called Cádiz. I went on a trip to Barcelona and Madrid afterwards with a friend and we enjoyed a lot of great sangria and all kinds of paella. 
 - [Feb 2014] I successfully got my first paid job at USC working with [Prof. Fei Sha](http://www-bcf.usc.edu/~feisha/), after an exchange program at USC in the summer of 2013. 
 - [Dec 2013] I went to my first machine learning conference, NIPS 13 (now NeurIPS), to present a collaborated project supervised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) at Tsinghua University. I was excited to have checked in Christopher Bishop and helped David Blei to find his way as a volunteer. The 6-hour poster sessions were fun and tiring. Interestingly, I was in charge of the discrete optimization workshop as a volunteer and sort-of met my later-to-be advisor Stefanie Jegelka. After the conference, I rented a car and went on a road trip to Las Vegas and Los Angeles with my friend. I liked the ML community when it was small and less-hyped. Good old days. 
-
+-->
 ### Contact
 Email: ziw 'at' csail 'dot' mit 'dot' edu
 
-If you have generic questions about my research on Artificial Intelligence/Machine Learning, having a life at competitive graduate schools like MIT, advisor-advisee relationships or mental health issues, and you feel like an answer to those can also benefit other people, please consider [posting a question on Quora and notify me about it via email and/or a Quora request](https://www.quora.com/profile/Zi-Wang-21). 
+If you have generic questions about my research on Artificial Intelligence/Machine Learning, having a life at competitive graduate schools like MIT, advisor-advisee relationships or work-life ballance, and you feel like an answer to those can also benefit other people, please consider [posting a question on Quora and notify me about it via email and/or a Quora request](https://www.quora.com/profile/Zi-Wang-21). 
 
 If you want my short comments on the issues similar to the topics listed above, please consider [tweeting to me on Twitter](https://twitter.com/ziwphd). I highly recommend this method because you may be able to get a slightly faster response.
 
