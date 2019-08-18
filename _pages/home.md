@@ -11,7 +11,7 @@ Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical En
 
 <!--I will start a research intern position at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) working on the foundations and theories of HIAAI and [AutoML](https://www.microsoft.com/en-us/research/blog/all-about-automated-machine-learning-with-dr-nicolo-fusi/) in the summer of 2019.-->
 
-I released the info page for my thesis (Human Intelligence Assisted Robot Learning) including the thesis proposal, slides, poster, and videos: [HIARL.info](https://www.hiarl.info).
+I released the info page for my thesis topic (Human Intelligence Assisted Robot Learning; also named Robot Learning with Strong Priors): [HIARL.info](https://www.hiarl.info).
 
 
 
@@ -49,9 +49,10 @@ I released the info page for my thesis (Human Intelligence Assisted Robot Learni
 -->
 ### Contact
 Email: ziw 'at' csail 'dot' mit 'dot' edu
-
+<!--
 If you have generic questions about my research on Artificial Intelligence/Machine Learning, having a life at competitive graduate schools like MIT, advisor-advisee relationships or work-life ballance, and you feel like an answer to those can also benefit other people, please consider [posting a question on Quora and notify me about it via email and/or a Quora request](https://www.quora.com/profile/Zi-Wang-21). 
 
 If you want my short comments on the issues similar to the topics listed above, please consider [tweeting to me on Twitter](https://twitter.com/ziwphd). I highly recommend this method because you may be able to get a slightly faster response.
 
 If I don’t reply to your email in 5 days, it’s likely my MIT email is having trouble again on filtering. So maybe send another one, or send an email to my friends instead, or write me a physical letter or postcard (32 Vassar St. 32-G414, Cambridge, MA 02139), or find me at free food events at MIT.
+-->
