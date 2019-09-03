@@ -7,11 +7,8 @@ classes: wide
 
 Hello! My name is Zi Wang, and I am a PhD candidate from [Dept. of Electrical Engineering & Computer Science at MIT](http://www.eecs.mit.edu/). I am a member of the [Learning & Intelligent Systems Group](http://lis.csail.mit.edu/new/) at [CSAIL](https://www.csail.mit.edu/) and the [Machine Learning Group](http://ml.mit.edu/) at MIT. I am advised by [Prof. Leslie Pack Kaelbling](http://people.csail.mit.edu/lpk/) and [Prof. Tomás Lozano-Pérez](http://people.csail.mit.edu/tlp/). I work on Human Intelligence Assisted Artificial Intelligence (HIAAI), Bayesian optimization, active learning and integrated learning and planning for robots. See two of my project descriptions [here](https://www.csail.mit.edu/research/bayesian-optimization-global-optimization-expensive-black-box-functions) and [here](https://www.csail.mit.edu/research/active-learning-models-planning). 
 
-<strong><em>__I am currently looking for postdoc positions or other interesting opportunities preferably around Boston area (5hr radius).__</em></strong>
+<em>__I am currently on job market.__</em>
 
-<!--I will start a research intern position at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) working on the foundations and theories of HIAAI and [AutoML](https://www.microsoft.com/en-us/research/blog/all-about-automated-machine-learning-with-dr-nicolo-fusi/) in the summer of 2019.-->
-
-I released the info page for my thesis topic (Human Intelligence Assisted Robot Learning; also named Robot Learning with Strong Priors): [HIARL.info](https://www.hiarl.info).
 
 
 
@@ -33,26 +30,8 @@ I released the info page for my thesis topic (Human Intelligence Assisted Robot 
 - [Dec 2015] [Paper accepted as oral presentation at AISTATS 2016.](https://ziw.mit.edu/projects/gp-est/)
 - [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
 
-<!--
-### My Favorite Life Achievements
-- [Mar 2019] I still felt sad that we as a community cannot solve AI in our generation. But I am ready to kiss-goodbye all my past failed efforts and start doing Human Intelligence Assisted AI (HIAAI) and Machine Intelligence Assisted Human Learning. I have always wanted to study psychology since elementary school but I was not able to stick with my own ambition due to various family persuasion. But in hindsight, it may not be a bad idea to learn something "harder" (e.g. computer science and math) first anyways. Maybe it is time for me to slightly shift my focus from machines to humans now. 
-- [Sep 2018] My mentee, Victoria, successfully submitted [her first paper to a machine learning conference, ICLR](https://openreview.net/pdf?id=SJxsV2R5FQ) with the help from our collaborators and our joint advisor, Leslie. This was the first time a UROP or MEng student who worked with me had the courage to continue doing research on one of the hardest problems in AI/ML/Robotics and eventually wrap up her work into a paper. This was one of the most gratifying moments in my PhD career and I sincerely hope there will be more courageous students working with me in the future.
-- [May 2018] I [answered some questions on Quora](https://www.quora.com/profile/Zi-Wang-21) and later became a "Most Viewed Writer in Machine Learning/AI/Computer Science/MIT ". One of my answers somehow got more than 330k views and 2k upvotes: ["Is Machine Learning just glorified statistics?"](https://qr.ae/TW7Py6). It helped me to be more aware of and think more deeply about the role of social media in the new era of science and education.
-- [Sep 2017] [I got married to the most wonderful guy in the world!](http://zwyls.com/)
-- [Summer 2017] I interned at Uber ATG working on autonomous driving, encouraged by a mentor I always admired, [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). It was a truly wonderful experience and I was able to stand up against any slight signs of gender bias, with the encouragement from almost everyone around me. I loved the diverse conversations I had with the super smart people working there and had a better idea on how industry functions when solving a super hard research problem. But the scientist aspect of me was also somewhat disappointed seeing the evidence that the extremely strong engineering efforts might not compensate the lack of a fundamental understanding of the science behind AI and ML. Another anecdote was that there was a survey collecting employees' suggestions and I suggested a more open attitude towards publication and the techniques we employed at ATG, for the sake of attracting intelligent people and the advancement of autonomous driving as a research community. To my surprise, my suggestion was featured in a company-wide discussion and ATG did indeed start to change, shown by a talk given by Jeff at ICML 17.
-- [Spring 2017] I was on the Graduate Focus Group for the 2017 EECS Visiting Committee. We successfully put together a report on the pressing issues at our department, including my topics on the support for international graduate students in terms of practical training (starting from 2016, international students from EECS can no longer use Curriculum Practical Training (CPT) for internships), career development, and mental health issues. Our department was able to swiftly respond to the CPT problem and implemented solutions to our PhD degree requirements in 2018 to meet [the regulations set by the U.S. Immigration and Customs Enforcement (ICE)](https://www.ice.gov/sevis/practical-training).
-- [May 2017] I successfully argued back about $5000 tax mispayment to the IRS in 2014 and 2015, with advice from my law school friend, self-education on the tax laws and treaties, and patience to the long calls to the IRS. 
-- [Feb 2017] I successfully [finished two papers on time and submitted to ICML 17 with collaborators](https://ziw.mit.edu/publications/#2017). It was quite a lot of work but at the same time gratifying. 
-- [Apr 2016] I did [my first long oral presentation (20 min)](https://ziw.mit.edu/publications/#2016) at a machine learning conference, AISTATS 16, at a beautiful town in Spain called Cádiz. I went on a trip to Barcelona and Madrid afterwards with a friend and we enjoyed a lot of great sangria and all kinds of paella. 
-- [Feb 2014] I successfully got my first paid job at USC working with [Prof. Fei Sha](http://www-bcf.usc.edu/~feisha/), after an exchange program at USC in the summer of 2013. 
-- [Dec 2013] I went to my first machine learning conference, NIPS 13 (now NeurIPS), to present a collaborated project supervised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) at Tsinghua University. I was excited to have checked in Christopher Bishop and helped David Blei to find his way as a volunteer. The 6-hour poster sessions were fun and tiring. Interestingly, I was in charge of the discrete optimization workshop as a volunteer and sort-of met my later-to-be advisor Stefanie Jegelka. After the conference, I rented a car and went on a road trip to Las Vegas and Los Angeles with my friend. I liked the ML community when it was small and less-hyped. Good old days. 
--->
+
+
 ### Contact
 Email: ziw 'at' csail 'dot' mit 'dot' edu
-<!--
-If you have generic questions about my research on Artificial Intelligence/Machine Learning, having a life at competitive graduate schools like MIT, advisor-advisee relationships or work-life ballance, and you feel like an answer to those can also benefit other people, please consider [posting a question on Quora and notify me about it via email and/or a Quora request](https://www.quora.com/profile/Zi-Wang-21). 
 
-If you want my short comments on the issues similar to the topics listed above, please consider [tweeting to me on Twitter](https://twitter.com/ziwphd). I highly recommend this method because you may be able to get a slightly faster response.
-
-If I don’t reply to your email in 5 days, it’s likely my MIT email is having trouble again on filtering. So maybe send another one, or send an email to my friends instead, or write me a physical letter or postcard (32 Vassar St. 32-G414, Cambridge, MA 02139), or find me at free food events at MIT.
--->
