@@ -315,7 +315,7 @@ Topic Information
 		  .friction(0.8)
 		  .theta(0.1);
 		  //.gravity(0.8);
-		d3.json("https://ziw.mit.edu/projects/gctm/l2.min.json", function(error, graph) {
+		d3.json("l2.min.json", function(error, graph) {
 		force
 		  .nodes(graph.nodes)
 		  .links(graph.links.filter(function (link) {
