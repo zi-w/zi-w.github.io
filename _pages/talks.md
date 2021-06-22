@@ -4,6 +4,8 @@ permalink: /talks/
 author_profile: true
 layout: single_noauthor 
 ---
+- [July 29, 2021] Bayesian Optimization @ Vilnius Machine Learning Workshop (Virtual).
+- [Oct 31, 2019] Bayesian Optimization for Global Optimization of Expensive Black-box Functions @ MLFL, UMass Amherst, MA. 
 - [Jun 21, 2019] Human intelligence assisted robot learning @ RSS Pioneers 2019, University of Freiburg, Freiburg, Germany.
 - [Jun 19, 2019] Human intelligence assisted robot learning @ Machine Learning & Robotics Lab, University Stuttgart, Stuttgart, Germany. 
 - [Jun 18, 2019] Human intelligence assisted robot learning @ Shift Technology, Paris, France. 

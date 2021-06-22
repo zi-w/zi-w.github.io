@@ -5,9 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Zi Wang, and I am a ~~PhD candidate from [Dept. of Electrical Engineering & Computer Science at MIT](http://www.eecs.mit.edu/). I am a member of the [Learning & Intelligent Systems Group](http://lis.csail.mit.edu/new/) at [CSAIL](https://www.csail.mit.edu/) and the [Machine Learning Group](http://ml.mit.edu/) at MIT. I am advised by [Prof. Leslie Pack Kaelbling](http://people.csail.mit.edu/lpk/) and [Prof. Tomás Lozano-Pérez](http://people.csail.mit.edu/tlp/).~~ research scientist at Google Brain (a block away from MIT).
-
-
+Hello! My name is Zi Wang, and I am a research scientist at Google Brain.
 
 
 
@@ -32,5 +30,5 @@ Hello! My name is Zi Wang, and I am a ~~PhD candidate from [Dept. of Electrical 
 
 
 ### Contact
-Email: ~~ziw 'at' csail 'dot' mit 'dot' edu~~ wangzi 'at' google 'dot' com (Please refrain from using my MIT email addr because it will be deactivated soon)
+Email: wangzi 'at' google 'dot' com
 
