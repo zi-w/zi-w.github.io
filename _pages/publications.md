@@ -51,7 +51,7 @@ toc_sticky: true
    <div class="img"><a href="https://arxiv.org/pdf/1807.09962.pdf"><img class="img_responsive" src="/images/pub/score.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="kimIJRR2019" href="https://arxiv.org/pdf/1807.09962.pdf">Learning to guide task and motion planning using score-space representation</a></div>         
-     <div class="authors">Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomas Lozano-Perez         
+     <div class="authors">Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>International Journal of Robotics Research (IJRR), 2019</em> 
@@ -97,7 +97,7 @@ toc_sticky: true
    <div class="img"><a href="/projects/kitchen2d"><img class="img_responsive" src="/images/pub/kitchen2d.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangIROS2018" href="/projects/kitchen2d">Active model learning and diverse action sampling for task and motion planning</a></div>         
-     <div class="authors">Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomas Lozano-Perez         
+     <div class="authors">Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>International Conference on Intelligent Robots and Systems (IROS), 2018</em> 
@@ -142,7 +142,7 @@ toc_sticky: true
    <div class="img"><a href="/projects/mlp"><img class="img_responsive" src="/images/pub/6.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangICRA17" href="/projects/mlp">Focused Model-Learning and Planning for Non-Gaussian Continuous State-Action Systems</a></div>         
-     <div class="authors">Zi Wang, Stefanie Jegelka, Leslie Pack Kaelbling and Tomas Lozano-Perez         
+     <div class="authors">Zi Wang, Stefanie Jegelka, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>IEEE Conference on Robotics and Automation (ICRA), 2017</em> 
