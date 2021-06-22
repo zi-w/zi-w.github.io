@@ -7,6 +7,25 @@ toc: true
 toc_label: "Publication List" 
 toc_sticky: true 
 ---
+## 2020
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/pdf/2006.06444.pdf"><img class="img_responsive" src="/images/pub/ltamp.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wangIJRR2020" href="https://arxiv.org/pdf/2006.06444.pdf">Learning compositional models of robot skills for task and motion planning</a></div>         
+     <div class="authors">Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
+     </div>         
+     <div>         
+       <em>International Journal of Robotics Research (IJRR), 2020</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2006.06444.pdf">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
 ## 2019
 
  <div class="publication">          

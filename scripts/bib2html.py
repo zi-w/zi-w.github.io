@@ -11,7 +11,7 @@ with open('../pub/bib.yaml', 'w') as of:
 '''
 
 with open('../pub/bib.yaml') as of:
-  bibs = yaml.load(of)
+  bibs = yaml.load(of, Loader=yaml.FullLoader)
 
 by_year = {}
 for e in bibs:

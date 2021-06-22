@@ -1,3 +1,11 @@
+- ENTRYTYPE: journal
+  ID: wangIJRR2020
+  author: Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez
+  booktitle: International Journal of Robotics Research (IJRR)
+  title: Learning compositional models of robot skills for task and motion planning
+  url: https://arxiv.org/pdf/2006.06444.pdf
+  img: /images/pub/ltamp.png
+  year: '2020'
 - ENTRYTYPE: inproceedings
   ID: xiaICLR2019
   author: Victoria Xia*, Zi Wang*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling
