@@ -9,7 +9,9 @@ Hello! My name is Zi Wang, and I am a research scientist at Google Brain.
 
 
 
-### My Academic Achievements and Milestones
+### News
+- [Jul 2021] Enjoyed speaking at [VMLW](https://workshops.eeml.eu/)! [Slides available now.](https://zi-wang.com/pub/bayesopt_tutorial.pdf)
+- [Jun 2021] Hosted [2021 Google BayesOpt Speaker Series](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER).
 - [Jan 2020] Got a PhD from MIT. 
 - [May 2019] NEW ACHIEVEMENT: honored to be part of ["RSS Pioneers 2019"](http://rss2019.informatik.uni-freiburg.de/RSS_Pioneers_2019_Camera_Ready/63.pdf), a cohort of the world’s top early career researchers in robotics. 
 - [Apr 2019] NEW ACHIEVEMENT: honored to be awarded ["MIT Graduate Women of Excellence"](https://twitter.com/ziwphd/status/1123022290403328000), in recognition of my leadership and service, dedication to mentoring, and drive to improve the student experience. 

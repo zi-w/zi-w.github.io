@@ -4,13 +4,13 @@ permalink: /talks/
 author_profile: true
 layout: single_noauthor 
 ---
-- [July 29, 2021] Bayesian Optimization @ Vilnius Machine Learning Workshop (Virtual).
+- [July 29, 2021] Bayesian Optimization @ Vilnius Machine Learning Workshop (Virtual). [slides](https://zi-wang.com/pub/bayesopt_tutorial.pdf)
 - [Oct 31, 2019] Bayesian Optimization for Global Optimization of Expensive Black-box Functions @ MLFL, UMass Amherst, MA. 
 - [Jun 21, 2019] Human intelligence assisted robot learning @ RSS Pioneers 2019, University of Freiburg, Freiburg, Germany.
 - [Jun 19, 2019] Human intelligence assisted robot learning @ Machine Learning & Robotics Lab, University Stuttgart, Stuttgart, Germany. 
 - [Jun 18, 2019] Human intelligence assisted robot learning @ Shift Technology, Paris, France. 
 - [Oct 3, 2018] Active model learning and diverse action sampling for task and motion planning (spotlight) @ IROS 2018, Madrid, Spain. 
-- [Sep 20, 2018] Active model learning and diverse action sampling for task and motion planning @ University of Washington, Seattle, WA. [slides](https://ziw.mit.edu/pub/ltamp)
+- [Sep 20, 2018] Active model learning and diverse action sampling for task and motion planning @ University of Washington, Seattle, WA. [slides](https://zi-wang.com/pub/ltamp)
 - [Sep 18, 2018] Regret bound of Bayesian optimization with unknown GP priors @ Microsoft Research AI Breakthroughs Workshop, Redmond, WA. 
 - [Jul 3, 2018] Bayesian Optimization Guided by Max-values @ ISMP 2018, Bordeaux, France. [slides](https://www.icloud.com/keynote/0iOMOD8vx385JepjFFJWCXl4A#bo%5Ftalk)
 - [Mar 9, 2018] Integrating model learning and TAMP @ LIS, MIT, Cambridge, MA. [slides available upon request]
