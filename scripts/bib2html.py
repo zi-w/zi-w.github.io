@@ -42,7 +42,7 @@ for i in sorted(by_year.keys(), reverse = True):
         tmp = ''
     else:
       tmp = p['project']
-    p['author'].replace('Zi Wang', '<strong>Zi Wang</strong>')
+    p['author'] = p['author'].replace('Zi Wang', '<strong>Zi Wang</strong>')
     f.write('\n \
 <div class="publication">          \n \
   <link rel="stylesheet" href="/assets/css/my.css">         \n \

@@ -14,7 +14,7 @@ toc_sticky: true
    <div class="img"><a href="https://arxiv.org/pdf/2006.06444.pdf"><img class="img_responsive" src="/images/pub/ltamp.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangIJRR2020" href="https://arxiv.org/pdf/2006.06444.pdf">Learning compositional models of robot skills for task and motion planning</a></div>         
-     <div class="authors">Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
+     <div class="authors"><strong>Zi Wang</strong>*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>International Journal of Robotics Research (IJRR), 2020</em> 
@@ -33,7 +33,7 @@ toc_sticky: true
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf"><img class="img_responsive" src="/images/pub/spare.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="xiaICLR2019" href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf">Learning sparse relational transition models</a></div>         
-     <div class="authors">Victoria Xia*, Zi Wang*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling         
+     <div class="authors">Victoria Xia*, <strong>Zi Wang</strong>*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling         
      </div>         
      <div>         
        <em>International Conference on Learning Representations (ICLR), 2019</em> 
@@ -51,7 +51,7 @@ toc_sticky: true
    <div class="img"><a href="https://arxiv.org/pdf/1807.09962.pdf"><img class="img_responsive" src="/images/pub/score.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="kimIJRR2019" href="https://arxiv.org/pdf/1807.09962.pdf">Learning to guide task and motion planning using score-space representation</a></div>         
-     <div class="authors">Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
+     <div class="authors">Beomjoon Kim, <strong>Zi Wang</strong>, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>International Journal of Robotics Research (IJRR), 2019</em> 
@@ -70,7 +70,7 @@ toc_sticky: true
    <div class="img"><a href="/meta_bo"><img class="img_responsive" src="/images/pub/noprior.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangNIPS2018" href="/meta_bo">Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior</a></div>         
-     <div class="authors">Zi Wang*, Beomjoon Kim* and Leslie Pack Kaelbling         
+     <div class="authors"><strong>Zi Wang</strong>*, Beomjoon Kim* and Leslie Pack Kaelbling         
      </div>         
      <div>         
        <em>Advances in Neural Information Processing Systems (NIPS), 2018</em> 
@@ -97,7 +97,7 @@ toc_sticky: true
    <div class="img"><a href="/projects/kitchen2d"><img class="img_responsive" src="/images/pub/kitchen2d.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangIROS2018" href="/projects/kitchen2d">Active model learning and diverse action sampling for task and motion planning</a></div>         
-     <div class="authors">Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
+     <div class="authors"><strong>Zi Wang</strong>, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>International Conference on Intelligent Robots and Systems (IROS), 2018</em> 
@@ -121,7 +121,7 @@ toc_sticky: true
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-aistats18.pdf"><img class="img_responsive" src="/images/pub/9.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangAISTATS2018" href="http://lis.csail.mit.edu/pubs/wang-aistats18.pdf">Batched Large-scale Bayesian Optimization in High-dimensional Spaces</a></div>         
-     <div class="authors">Zi Wang, Clement Gehring, Pushmeet Kohli and Stefanie Jegelka         
+     <div class="authors"><strong>Zi Wang</strong>, Clement Gehring, Pushmeet Kohli and Stefanie Jegelka         
      </div>         
      <div>         
        <em>International Conference on Artificial Intelligence and Statistics (AISTATS), 2018</em> 
@@ -142,7 +142,7 @@ toc_sticky: true
    <div class="img"><a href="/projects/mlp"><img class="img_responsive" src="/images/pub/6.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangICRA17" href="/projects/mlp">Focused Model-Learning and Planning for Non-Gaussian Continuous State-Action Systems</a></div>         
-     <div class="authors">Zi Wang, Stefanie Jegelka, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
+     <div class="authors"><strong>Zi Wang</strong>, Stefanie Jegelka, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>IEEE Conference on Robotics and Automation (ICRA), 2017</em> 
@@ -164,7 +164,7 @@ toc_sticky: true
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-icml17b.pdf"><img class="img_responsive" src="/images/pub/7.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangICML2017b" href="http://lis.csail.mit.edu/pubs/wang-icml17b.pdf">Max-value Entropy Search for Efficient Bayesian Optimization</a></div>         
-     <div class="authors">Zi Wang and Stefanie Jegelka         
+     <div class="authors"><strong>Zi Wang</strong> and Stefanie Jegelka         
      </div>         
      <div>         
        <em>International Conference on Machine Learning (ICML), 2017</em> 
@@ -186,7 +186,7 @@ toc_sticky: true
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-icml17a.pdf"><img class="img_responsive" src="/images/pub/8.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangICML2017a" href="http://lis.csail.mit.edu/pubs/wang-icml17a.pdf">Batched High-dimensional Bayesian Optimization via Structural Kernel Learning</a></div>         
-     <div class="authors">Zi Wang*, Chengtao Li*, Stefanie Jegelka and Pushmeet Kohli         
+     <div class="authors"><strong>Zi Wang</strong>*, Chengtao Li*, Stefanie Jegelka and Pushmeet Kohli         
      </div>         
      <div>         
        <em>International Conference on Machine Learning (ICML), 2017</em> 
@@ -209,7 +209,7 @@ toc_sticky: true
    <div class="img"><a href="/projects/gp-est"><img class="img_responsive" src="/images/pub/5.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang-aistats16" href="/projects/gp-est">Optimization as Estimation with {G}aussian Processes in Bandit Settings</a></div>         
-     <div class="authors">Zi Wang, Bolei Zhou and Stefanie Jegelka         
+     <div class="authors"><strong>Zi Wang</strong>, Bolei Zhou and Stefanie Jegelka         
      </div>         
      <div>         
        <em>International Conference on Artificial Intelligence and Statistics (AISTATS), 2016</em> 
@@ -237,7 +237,7 @@ toc_sticky: true
    <div class="img"><a href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf"><img class="img_responsive" src="/images/pub/3.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="lu_nipspos_2014" href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf">Fast Learning with Noise in Deep Neural Nets</a></div>         
-     <div class="authors">Zhiyun Lu*, Zi Wang* and Fei Sha         
+     <div class="authors">Zhiyun Lu*, <strong>Zi Wang</strong>* and Fei Sha         
      </div>         
      <div>         
        <em>NIPS Workshop: Perturbations, Optimization, and Statistics, 2014</em> 
@@ -258,7 +258,7 @@ toc_sticky: true
    <div class="img"><a href="/projects/dnmf"><img class="img_responsive" src="/images/pub/1.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang_icassp_2014" href="/projects/dnmf">Discriminative Non-Negative Matrix Factorization for Single-Channel Speech Separation</a></div>         
-     <div class="authors">Zi Wang and Fei Sha         
+     <div class="authors"><strong>Zi Wang</strong> and Fei Sha         
      </div>         
      <div>         
        <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014</em> 
@@ -281,7 +281,7 @@ toc_sticky: true
    <div class="img"><a href="/projects/gctm"><img class="img_responsive" src="/images/pub/2.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="chen_nips_2013" href="/projects/gctm">Scalable Inference for Logistic-Normal Topic Models</a></div>         
-     <div class="authors">Jianfei Chen, Jun Zhu, Zi Wang, Xun Zheng and Bo Zhang         
+     <div class="authors">Jianfei Chen, Jun Zhu, <strong>Zi Wang</strong>, Xun Zheng and Bo Zhang         
      </div>         
      <div>         
        <em>Advances in Neural Information Processing Systems (NIPS), 2013</em> 
