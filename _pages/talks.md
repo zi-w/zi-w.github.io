@@ -4,6 +4,7 @@ permalink: /talks/
 author_profile: true
 layout: single_noauthor 
 ---
+- [Oct 26, 2021] Priors in probabilistic numerics @ [Dagstuhl Seminar on 'Probabilistic Numerical Methods - From Theory to Implementation'](https://www.dagstuhl.de/21432). [slides](https://zi-wang.com/pub/Priors_in_probabilistic_numerics_10_26_2021.pdf)
 - [July 29, 2021] Bayesian Optimization @ Vilnius Machine Learning Workshop (Virtual). [slides](https://zi-wang.com/pub/bayesopt_tutorial.pdf)
 - [Oct 31, 2019] Bayesian Optimization for Global Optimization of Expensive Black-box Functions @ MLFL, UMass Amherst, MA. 
 - [Jun 21, 2019] Human intelligence assisted robot learning @ RSS Pioneers 2019, University of Freiburg, Freiburg, Germany.
