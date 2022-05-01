@@ -21,7 +21,11 @@ toc_sticky: true
  <br> 
  
        <a class="btn btn--success btn--small" href="/pub/hyperbo.pdf">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
          
+       <a class="btn btn--info btn--small" href="/pub/hyperbo_slides.pdf">Slides</a>         
+       
      </div>         
    </div>         
  </div> 

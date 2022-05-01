@@ -1,10 +1,12 @@
 - ENTRYTYPE: journal
   ID: wangIJRR2020
   author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
-  booktitle:  arXiv:2109.08215
+  booktitle: arXiv:2109.08215
   title: Pre-training helps Bayesian optimization too
   url: /pub/hyperbo.pdf
   img: /images/pub/hyperbo.png
+  code: https://github.com/google-research/hyperbo
+  slides: /pub/hyperbo_slides.pdf
   year: '2022'
 - ENTRYTYPE: journal
   ID: wangIJRR2020
