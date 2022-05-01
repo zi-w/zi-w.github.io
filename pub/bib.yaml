@@ -1,5 +1,13 @@
 - ENTRYTYPE: journal
   ID: wangIJRR2020
+  author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
+  booktitle:  arXiv:2109.08215
+  title: Pre-training helps Bayesian optimization too
+  url: /pub/hyperbo.pdf
+  img: /images/pub/hyperbo.png
+  year: '2022'
+- ENTRYTYPE: journal
+  ID: wangIJRR2020
   author: Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez
   booktitle: International Journal of Robotics Research (IJRR)
   title: Learning compositional models of robot skills for task and motion planning
@@ -96,7 +104,7 @@
   author: Zi Wang, Bolei Zhou and Stefanie Jegelka
   booktitle: International Conference on Artificial Intelligence and Statistics (AISTATS)
   keywords: Learning and Optimization
-  title: Optimization as Estimation with {G}aussian Processes in Bandit Settings
+  title: Optimization as Estimation with Gaussian Processes in Bandit Settings
   url: http://lis.csail.mit.edu/pubs/wang-aistats16.pdf
   year: '2016'
   code: https://github.com/zi-w/GP-EST

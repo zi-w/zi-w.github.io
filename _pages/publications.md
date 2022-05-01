@@ -7,6 +7,25 @@ toc: true
 toc_label: "Publication List" 
 toc_sticky: true 
 ---
+## 2022
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="/pub/hyperbo.pdf"><img class="img_responsive" src="/images/pub/hyperbo.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wangIJRR2020" href="/pub/hyperbo.pdf">Pre-training helps Bayesian optimization too</a></div>         
+     <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
+     </div>         
+     <div>         
+       <em>arXiv:2109.08215, 2022</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="/pub/hyperbo.pdf">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
 ## 2020
 
  <div class="publication">          
@@ -208,7 +227,7 @@ toc_sticky: true
    <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="/projects/gp-est"><img class="img_responsive" src="/images/pub/5.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wang-aistats16" href="/projects/gp-est">Optimization as Estimation with {G}aussian Processes in Bandit Settings</a></div>         
+     <div class="title"><a name="wang-aistats16" href="/projects/gp-est">Optimization as Estimation with Gaussian Processes in Bandit Settings</a></div>         
      <div class="authors"><strong>Zi Wang</strong>, Bolei Zhou and Stefanie Jegelka         
      </div>         
      <div>         
