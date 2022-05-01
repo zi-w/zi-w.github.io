@@ -34,16 +34,20 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/pdf/2006.06444.pdf"><img class="img_responsive" src="/images/pub/ltamp.png"></a></div>         
+   <div class="img"><a href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c"><img class="img_responsive" src="/images/pub/ltamp.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangIJRR2020" href="https://arxiv.org/pdf/2006.06444.pdf">Learning compositional models of robot skills for task and motion planning</a></div>         
+     <div class="title"><a name="wangIJRR2020" href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c">Learning compositional models of robot skills for task and motion planning</a></div>         
      <div class="authors"><strong>Zi Wang</strong>*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
      </div>         
      <div>         
        <em>International Journal of Robotics Research (IJRR), 2020</em> 
  <br> 
  
+       <a class="btn btn--primary btn--small" href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c">Project page</a>         
+          
        <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2006.06444.pdf">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/caelan/LTAMP">Code</a>         
          
      </div>         
    </div>         

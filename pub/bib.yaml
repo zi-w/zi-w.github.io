@@ -14,7 +14,9 @@
   booktitle: International Journal of Robotics Research (IJRR)
   title: Learning compositional models of robot skills for task and motion planning
   url: https://arxiv.org/pdf/2006.06444.pdf
+  code: https://github.com/caelan/LTAMP
   img: /images/pub/ltamp.png
+  project: https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c
   year: '2020'
 - ENTRYTYPE: inproceedings
   ID: xiaICLR2019
