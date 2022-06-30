@@ -1,5 +1,13 @@
 - ENTRYTYPE: journal
-  ID: wangIJRR2020
+  ID: chen2022
+  author: Yutian Chen, Xingyou Song, Chansoo Lee, Zi Wang, Qiuyi Zhang, David Dohan, Kazuya Kawakami, Greg Kochanski, Arnaud Doucet, Marc'aurelio Ranzato, Sagi Perel, Nando de Freitas
+  booktitle:  arXiv:2205.13320
+  title: Towards Learning Universal Hyperparameter Optimizers with Transformers
+  url: https://arxiv.org/abs/2205.13320
+  img: /images/pub/optformer.png
+  year: '2022'
+- ENTRYTYPE: journal
+  ID: wang2022
   author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
   booktitle: arXiv:2109.08215
   title: Pre-training helps Bayesian optimization too

@@ -11,9 +11,27 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2205.13320"><img class="img_responsive" src="/images/pub/optformer.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="chen2022" href="https://arxiv.org/abs/2205.13320">Towards Learning Universal Hyperparameter Optimizers with Transformers</a></div>         
+     <div class="authors">Yutian Chen, Xingyou Song, Chansoo Lee, <strong>Zi Wang</strong>, Qiuyi Zhang, David Dohan, Kazuya Kawakami, Greg Kochanski, Arnaud Doucet, Marc'aurelio Ranzato, Sagi Perel, Nando de Freitas         
+     </div>         
+     <div>         
+       <em>arXiv:2205.13320, 2022</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2205.13320">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="/pub/hyperbo.pdf"><img class="img_responsive" src="/images/pub/hyperbo.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangIJRR2020" href="/pub/hyperbo.pdf">Pre-training helps Bayesian optimization too</a></div>         
+     <div class="title"><a name="wang2022" href="/pub/hyperbo.pdf">Pre-training helps Bayesian optimization too</a></div>         
      <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
      </div>         
      <div>         
