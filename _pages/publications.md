@@ -68,24 +68,43 @@ toc_sticky: true
    </div>         
  </div> 
  <br>
-## 2020
+## 2021
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c"><img class="img_responsive" src="/images/pub/ltamp.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangIJRR2020" href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c">Learning compositional models of robot skills for task and motion planning</a></div>         
+     <div class="title"><a name="wangIJRR2021" href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c">Learning compositional models of robot skills for task and motion planning</a></div>         
      <div class="authors"><strong>Zi Wang</strong>*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
      </div>         
      <div>         
-       <em>International Journal of Robotics Research (IJRR), 2020</em> 
+       <em>International Journal of Robotics Research (IJRR), 2021</em> 
  <br> 
  
        <a class="btn btn--primary btn--small" href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c">Project page</a>         
           
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2006.06444.pdf">PDF</a>         
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2006.06444">PDF</a>         
           
        <a class="btn btn--warning btn--small" href="https://github.com/caelan/LTAMP">Code</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+## 2020
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://dspace.mit.edu/handle/1721.1/128299"><img class="img_responsive" src="/images/pub/thesis.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wang2020" href="https://dspace.mit.edu/handle/1721.1/128299">Robot Learning with Strong Priors</a></div>         
+     <div class="authors"><strong>Zi Wang</strong>         
+     </div>         
+     <div>         
+       <em>MIT Ph.D. Thesis, 2020</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://dspace.mit.edu/handle/1721.1/128299">PDF</a>         
          
      </div>         
    </div>         

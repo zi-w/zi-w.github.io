@@ -26,14 +26,22 @@
   slides: /pub/hyperbo_slides.pdf
   year: '2022'
 - ENTRYTYPE: journal
-  ID: wangIJRR2020
+  ID: wangIJRR2021
   author: Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez
   booktitle: International Journal of Robotics Research (IJRR)
   title: Learning compositional models of robot skills for task and motion planning
-  url: https://arxiv.org/pdf/2006.06444.pdf
+  url: https://arxiv.org/abs/2006.06444
   code: https://github.com/caelan/LTAMP
   img: /images/pub/ltamp.png
   project: https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c
+  year: '2021'
+- ENTRYTYPE: thesis
+  ID: wang2020
+  author: Zi Wang
+  booktitle: MIT Ph.D. Thesis
+  title: Robot Learning with Strong Priors
+  url: https://dspace.mit.edu/handle/1721.1/128299
+  img: /images/pub/thesis.png
   year: '2020'
 - ENTRYTYPE: inproceedings
   ID: xiaICLR2019
