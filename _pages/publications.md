@@ -29,16 +29,36 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/pub/hyperbo.pdf"><img class="img_responsive" src="/images/pub/hyperbo.png"></a></div>         
+   <div class="img"><a href="https://arxiv.org/abs/2109.08215"><img class="img_responsive" src="/images/pub/hyperbo.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wang2022" href="/pub/hyperbo.pdf">Pre-training helps Bayesian optimization too</a></div>         
+     <div class="title"><a name="wang2022" href="https://arxiv.org/abs/2109.08215">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
      <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
      </div>         
      <div>         
        <em>arXiv:2109.08215, 2022</em> 
  <br> 
  
-       <a class="btn btn--success btn--small" href="/pub/hyperbo.pdf">PDF</a>         
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2109.08215">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/pdf/2207.03084.pdf"><img class="img_responsive" src="/images/pub/hyperbo.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wang2022realml" href="https://arxiv.org/pdf/2207.03084.pdf">Pre-training helps Bayesian optimization too</a></div>         
+     <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
+     </div>         
+     <div>         
+       <em>ICML2022 Workshop on Adaptive Experimental Design and Active Learning in the Real World, 2022</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2207.03084.pdf">PDF</a>         
           
        <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
          
