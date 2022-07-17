@@ -1,9 +1,9 @@
 - ENTRYTYPE: inproceedings
   ID: tran2022
-  author: Dustin Tran, Andreas Kirsch, Balaji Lakshminarayanan, Huiyi Hu, Du Phan, D. Sculley, Jasper Snoek, Jeremiah Liu, Jie Ren, Joost van Amersfoort, Kehang Han, E. Kelly Buchanan, Kevin Murphy, Mark Collier, Mike Dusenberry, Neil Band, Nithum Thain, Rodolphe Jenatton, Tim G. J Rudner, Yarin Gal, Zachary Nado, Zelda Mariet, Zi Wang, Zoubin Ghahramani
+  author: Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan
   booktitle: ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift
   title: 'Plex: Towards Reliability using Pretrained Large Model Extensions'
-  url: https://storage.googleapis.com/plex-paper/plex.pdf
+  url: https://openreview.net/pdf?id=6x0gB9gOHFg
   img: /images/pub/plex.png
   code: https://github.com/google/uncertainty-baselines/tree/main/experimental/plex
   blog: https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html
