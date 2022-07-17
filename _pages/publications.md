@@ -11,10 +11,10 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://storage.googleapis.com/plex-paper/plex.pdf"><img class="img_responsive" src="/images/pub/plex.png"></a></div>         
+   <div class="img"><a href="https://openreview.net/pdf?id=6x0gB9gOHFg"><img class="img_responsive" src="/images/pub/plex.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="tran2022" href="https://storage.googleapis.com/plex-paper/plex.pdf">Plex: Towards Reliability using Pretrained Large Model Extensions</a></div>         
-     <div class="authors">Dustin Tran, Andreas Kirsch, Balaji Lakshminarayanan, Huiyi Hu, Du Phan, D. Sculley, Jasper Snoek, Jeremiah Liu, Jie Ren, Joost van Amersfoort, Kehang Han, E. Kelly Buchanan, Kevin Murphy, Mark Collier, Mike Dusenberry, Neil Band, Nithum Thain, Rodolphe Jenatton, Tim G. J Rudner, Yarin Gal, Zachary Nado, Zelda Mariet, <strong>Zi Wang</strong>, Zoubin Ghahramani         
+     <div class="title"><a name="tran2022" href="https://openreview.net/pdf?id=6x0gB9gOHFg">Plex: Towards Reliability using Pretrained Large Model Extensions</a></div>         
+     <div class="authors">Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, <strong>Zi Wang</strong>, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan         
      </div>         
      <div>         
        <em>ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift, 2022</em> 
@@ -22,7 +22,7 @@ toc_sticky: true
  
        <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html">Blog</a>         
           
-       <a class="btn btn--success btn--small" href="https://storage.googleapis.com/plex-paper/plex.pdf">PDF</a>         
+       <a class="btn btn--success btn--small" href="https://openreview.net/pdf?id=6x0gB9gOHFg">PDF</a>         
           
        <a class="btn btn--warning btn--small" href="https://github.com/google/uncertainty-baselines/tree/main/experimental/plex">Code</a>         
          
