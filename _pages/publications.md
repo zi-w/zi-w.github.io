@@ -11,6 +11,28 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://storage.googleapis.com/plex-paper/plex.pdf"><img class="img_responsive" src="/images/pub/plex.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="tran2022" href="https://storage.googleapis.com/plex-paper/plex.pdf">Plex: Towards Reliability using Pretrained Large Model Extensions</a></div>         
+     <div class="authors">Dustin Tran, Andreas Kirsch, Balaji Lakshminarayanan, Huiyi Hu, Du Phan, D. Sculley, Jasper Snoek, Jeremiah Liu, Jie Ren, Joost van Amersfoort, Kehang Han, E. Kelly Buchanan, Kevin Murphy, Mark Collier, Mike Dusenberry, Neil Band, Nithum Thain, Rodolphe Jenatton, Tim G. J Rudner, Yarin Gal, Zachary Nado, Zelda Mariet, <strong>Zi Wang</strong>, Zoubin Ghahramani         
+     </div>         
+     <div>         
+       <em>ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift, 2022</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html">Blog</a>         
+          
+       <a class="btn btn--success btn--small" href="https://storage.googleapis.com/plex-paper/plex.pdf">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google/uncertainty-baselines/tree/main/experimental/plex">Code</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://arxiv.org/abs/2205.13320"><img class="img_responsive" src="/images/pub/optformer.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="chen2022" href="https://arxiv.org/abs/2205.13320">Towards Learning Universal Hyperparameter Optimizers with Transformers</a></div>         

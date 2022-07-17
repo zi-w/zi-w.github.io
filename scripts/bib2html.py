@@ -59,6 +59,10 @@ for i in sorted(by_year.keys(), reverse = True):
       f.write(' \n \
       <a class="btn btn--primary btn--small" href="{}">Project page</a>         \n \
         '.format(p['project']))
+    if 'blog' in p:
+      f.write(' \n \
+      <a class="btn btn--primary btn--small" href="{}">Blog</a>         \n \
+        '.format(p['blog']))
     if 'url' in p:
       f.write(' \n \
       <a class="btn btn--success btn--small" href="{}">PDF</a>         \n \
