@@ -33,9 +33,10 @@ My goal is to build sample efficient learning machines with certifications, whic
 - [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
 
 ### Miscellaneous
-- [Perspectives on machine learnings with a touch of cynicism](https://qr.ae/pvkPxY)
+- [Follow Marble the Bunny!](https://www.instagram.com/curiousmarble/)
 - [Naturally Annoying Grammars (NAGs)](http://web.mit.edu/caelan/www/publications/sigtbd2016.pdf)
 - [Robot videos](https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c)
+- [Perspectives on machine learnings with a touch of cynicism](https://qr.ae/pvkPxY)
 
 
 ### Contact
