@@ -8,7 +8,7 @@ classes: wide
 Hello! My name is Zi Wang, and I am a research scientist at Google Brain. I received my Ph.D. in computer science from MIT, with a dissertation on robot learning with strong priors. Previously, I was an undergraduate at Tsinghua and a visiting scholar at USC where I started working on machine learning. Before that, I worked on research projects in the realm of mathematical optimization and modeling.
 
 
-My goal is to build sample efficient learning machines with certifications, which requires intelligent data acquisition strategies and understanding of circumstances where we have performance guarantees. My work lies in the intersections of Bayesian optimization, active learning, integrated learning and planning, rule learning and symbolic AI.
+My goal is to build sample efficient learning machines with certifications, which requires intelligent data acquisition strategies and understanding of circumstances where we have performance guarantees. My work lies in the intersections of Bayesian optimization, active learning, prior learning, rule learning, integrated learning and planning, and symbolic AI.
 
 ### News
 - [Feb 2022] Co-lecturing [Harvard CS 282r](https://sites.google.com/corp/view/harvardcs282r/home) this semester.
