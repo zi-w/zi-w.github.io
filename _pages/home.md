@@ -5,9 +5,10 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Zi Wang, and I am a research scientist at Google Brain.
+Hello! My name is Zi Wang, and I am a research scientist at Google Brain. I received my Ph.D. in computer science from MIT, with a dissertation on robot learning with strong priors. Previously, I was an undergraduate at Tsinghua and a visiting scholar at USC where I started working on machine learning. Before that, I worked on research projects in the realm of mathematical optimization and modeling.
 
 
+My goal is to build sample efficient learning machines with certifications, which requires intelligent data acquisition strategies and understanding of circumstances where we have performance guarantees. My work lies in the intersections of Bayesian optimization, active learning, integrated learning and planning, rule learning and symbolic AI.
 
 ### News
 - [Feb 2022] Co-lecturing [Harvard CS 282r](https://sites.google.com/corp/view/harvardcs282r/home) this semester.
@@ -31,6 +32,10 @@ Hello! My name is Zi Wang, and I am a research scientist at Google Brain.
 - [Dec 2015] [Paper accepted as oral presentation at AISTATS 2016.](https://ziw.mit.edu/projects/gp-est/)
 - [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
 
+### Miscellaneous
+- [Perspectives on machine learnings with a touch of cynicism](https://qr.ae/pvkPxY)
+- [Naturally Annoying Grammars (NAGs)](http://web.mit.edu/caelan/www/publications/sigtbd2016.pdf)
+- [Robot videos](https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c)
 
 
 ### Contact

@@ -45,6 +45,14 @@
   img: /images/pub/ltamp.png
   project: https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c
   year: '2021'
+- ENTRYTYPE: inproceedings
+  ID: mariet2020
+  author: Zelda Mariet, Ghassen Jerfel, Zi Wang, Christof Angermüller, David Belanger, Suhani Vora, Maxwell Bileschi, Lucy Colwell, D Sculley, Dustin Tran, Jasper Snoek
+  booktitle: Machine Learning for Molecules Workshop at NeurIPS 2020
+  title: Deep Uncertainty and the Search for Proteins
+  url: https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_23.pdf
+  img: /images/pub/default.png
+  year: '2020'
 - ENTRYTYPE: thesis
   ID: wang2020
   author: Zi Wang

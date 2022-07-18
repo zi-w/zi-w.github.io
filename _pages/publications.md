@@ -117,6 +117,24 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_23.pdf"><img class="img_responsive" src="/images/pub/default.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="mariet2020" href="https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_23.pdf">Deep Uncertainty and the Search for Proteins</a></div>         
+     <div class="authors">Zelda Mariet, Ghassen Jerfel, <strong>Zi Wang</strong>, Christof Angermüller, David Belanger, Suhani Vora, Maxwell Bileschi, Lucy Colwell, D Sculley, Dustin Tran, Jasper Snoek         
+     </div>         
+     <div>         
+       <em>Machine Learning for Molecules Workshop at NeurIPS 2020, 2020</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_23.pdf">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://dspace.mit.edu/handle/1721.1/128299"><img class="img_responsive" src="/images/pub/thesis.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2020" href="https://dspace.mit.edu/handle/1721.1/128299">Robot Learning with Strong Priors</a></div>         
