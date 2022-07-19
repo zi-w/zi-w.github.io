@@ -80,7 +80,7 @@ google_scholar           : &google_scholar "U0egIsIAAAAJ&hl"
 twitter:
   username               : &twitter "ziwphd"
 facebook:
-  username               : &facebook "ziwang617"
+  username               :
   app_id                 : 
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -115,7 +115,7 @@ author:
   dribbble         :
   flickr           :
   google_scholar   : *google_scholar
-  facebook         : *facebook
+  facebook         :
   foursquare       :
   github           : "zi-w"
   gitlab           :
@@ -128,7 +128,7 @@ author:
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           : "ziwphd"
+  tumblr           :
   twitter          : *twitter
   vine             :
   weibo            :
