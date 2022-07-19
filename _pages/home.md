@@ -13,7 +13,7 @@ My goal is to build sample efficient learning machines with certifications, whic
 ## Bulletin
 
 - Learn about Bayesian optimization at [Google BayesOpt Speaker Series on YouTube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER)!
-- Watch and follow [Gaussian Process Seminar Series on YouTube](https://www.youtube.com/channel/UCsEAZc42CX7xv3Rtr82SAeg)! We had an amazing [series of talk on everthing about Gaussian Processes](https://gp-seminar-series.github.io/).
+- Watch and follow [Gaussian Process Seminar Series on YouTube](https://www.youtube.com/channel/UCsEAZc42CX7xv3Rtr82SAeg)! We had an amazing [series of talks on everthing about Gaussian Processes](https://gp-seminar-series.github.io/).
 
 
 ## Contact
