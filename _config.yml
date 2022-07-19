@@ -20,7 +20,7 @@ title                    : "Zi Wang"
 title_separator          : "-"
 name                     : &name "Zi Wang"
 description              : "Zi Wang's homepage."
-url                      : https://ziw.mit.edu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zi-wang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -76,6 +76,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
+google_scholar           : &google_scholar "U0egIsIAAAAJ&hl"
 twitter:
   username               : &twitter "ziwphd"
 facebook:
@@ -104,22 +105,23 @@ analytics:
 author:
   name             : "Zi Wang"
   avatar           : "/images/bio.png"
-  bio              : "WFH"
+  bio              : "Research Scientist"
   location         : "Cambridge, MA"
-  email            : "ziw@mit.edu"
-  uri              : "https://ziw.mit.edu"
-  home             : "https://ziw.mit.edu" # null (default), "absolute or relative url to link to author home"
+  email            : "wangzi@google.com"
+  uri              : "https://zi-wang.com"
+  home             : "https://zi-wang.com" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
+  google_scholar   : *google_scholar
   facebook         : *facebook
   foursquare       :
   github           : "zi-w"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "zwyls"
+  instagram        : "ziwphd"
   lastfm           :
   linkedin         : "wang-zi" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
