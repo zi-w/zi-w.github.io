@@ -3,6 +3,7 @@ title: "Miscellaneous"
 layout: single
 permalink: /misc/
 author_profile: true
+classes: wide
 ---
 
 - [Follow Marble the Bunny!](https://www.instagram.com/curiousmarble/)
