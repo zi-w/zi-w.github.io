@@ -8,13 +8,13 @@
   code: https://github.com/google/uncertainty-baselines/tree/main/experimental/plex
   blog: https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html
   year: '2022'
-- ENTRYTYPE: journal
+- ENTRYTYPE: inproceedings
   ID: chen2022
   author: Yutian Chen, Xingyou Song, Chansoo Lee, Zi Wang, Qiuyi Zhang, David Dohan, Kazuya Kawakami, Greg Kochanski, Arnaud Doucet, Marc'aurelio Ranzato, Sagi Perel, Nando de Freitas
-  booktitle:  arXiv:2205.13320
+  booktitle:  Advances in Neural Information Processing Systems (NeurIPS)
   title: Towards Learning Universal Hyperparameter Optimizers with Transformers
   url: https://arxiv.org/abs/2205.13320
-  img: /images/pub/optformer.png
+  img: /images/pub/optformer.gif
   year: '2022'
 - ENTRYTYPE: journal
   ID: wang2022
@@ -22,8 +22,17 @@
   booktitle: arXiv:2109.08215
   title: Pre-trained Gaussian processes for Bayesian optimization
   url: https://arxiv.org/abs/2109.08215
-  img: /images/pub/hyperbo.png
+  img: /images/pub/hyperbo.gif
   code: https://github.com/google-research/hyperbo
+  year: '2022'
+- ENTRYTYPE: inproceedings
+  ID: zhou2022
+  author: Zhou Fan, Xinran Han, Zi Wang
+  booktitle: NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems
+  title: 'HyperBO+: Pre-training a universal hierarchical Gaussian process prior for Bayesian optimization'
+  url: https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24.pdf
+  img: /images/pub/hyperboplus.png
+  poster: https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24_poster.pdf
   year: '2022'
 - ENTRYTYPE: inproceedings
   ID: wang2022realml

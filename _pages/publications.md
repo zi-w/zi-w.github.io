@@ -33,13 +33,13 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/abs/2205.13320"><img class="img_responsive" src="/images/pub/optformer.png"></a></div>         
+   <div class="img"><a href="https://arxiv.org/abs/2205.13320"><img class="img_responsive" src="/images/pub/optformer.gif"></a></div>         
    <div class="text">         
      <div class="title"><a name="chen2022" href="https://arxiv.org/abs/2205.13320">Towards Learning Universal Hyperparameter Optimizers with Transformers</a></div>         
      <div class="authors">Yutian Chen, Xingyou Song, Chansoo Lee, <strong>Zi Wang</strong>, Qiuyi Zhang, David Dohan, Kazuya Kawakami, Greg Kochanski, Arnaud Doucet, Marc'aurelio Ranzato, Sagi Perel, Nando de Freitas         
      </div>         
      <div>         
-       <em>arXiv:2205.13320, 2022</em> 
+       <em>Advances in Neural Information Processing Systems (NeurIPS), 2022</em> 
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2205.13320">PDF</a>         
@@ -51,7 +51,7 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/abs/2109.08215"><img class="img_responsive" src="/images/pub/hyperbo.png"></a></div>         
+   <div class="img"><a href="https://arxiv.org/abs/2109.08215"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2022" href="https://arxiv.org/abs/2109.08215">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
      <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
@@ -64,6 +64,26 @@ toc_sticky: true
           
        <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
          
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24.pdf"><img class="img_responsive" src="/images/pub/hyperboplus.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="zhou2022" href="https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24.pdf">HyperBO+: Pre-training a universal hierarchical Gaussian process prior for Bayesian optimization</a></div>         
+     <div class="authors">Zhou Fan, Xinran Han, <strong>Zi Wang</strong>         
+     </div>         
+     <div>         
+       <em>NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24.pdf">PDF</a>         
+         
+       <a class="btn btn--danger btn--small" href="https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24_poster.pdf">Poster</a>         
+       
      </div>         
    </div>         
  </div> 
