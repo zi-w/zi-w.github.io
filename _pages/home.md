@@ -13,8 +13,8 @@ My goal is to build sample efficient learning machines with certifications, whic
 ## Bulletin
 
 - Consider submitting to [2022 NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/neurips-2022/)!
-- Learn about Bayesian optimization at [Google BayesOpt Speaker Series on YouTube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER)!
-- Watch and follow [Gaussian Process Seminar Series on YouTube](https://www.youtube.com/channel/UCsEAZc42CX7xv3Rtr82SAeg)! We had an amazing [series of talks on everthing about Gaussian Processes](https://gp-seminar-series.github.io/).
+- Learn about new advances in Bayesian optimization at [Google BayesOpt Speaker Series on YouTube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER)
+- Check out the [Gaussian Process Seminar Series on YouTube](https://www.youtube.com/channel/UCsEAZc42CX7xv3Rtr82SAeg) -- we had an amazing [series of talks on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/) and hosted a [NeurIPS 2022 Workshop](https://gp-seminar-series.github.io/neurips-2022/) on these topics.
 
 
 ## Contact
