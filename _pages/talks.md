@@ -7,6 +7,7 @@ classes: wide
 ---
 - [Oct 17, 2022] Pre-trained Gaussian processes for Bayesian optimization @ BayesOpt Session of [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/).
 - [Jul 26, 2022] Panelist of "AutoML in the age of large-pretrained models" @ [AutoML Conference 2022](https://automl.cc/). [video](https://www.youtube.com/watch?v=SrnvX28u-ww)
+- [May 17, 2022] Prior learning for Bayesian optimization @ [HEC Montreal Optimization Days 2022](https://symposia.gerad.ca/jopt2022/en/home).
 - [May 5, 2022] Pre-training helps Bayesian optimization too @ [AutoML Seminars](https://automl-seminars.github.io/). [video](https://www.youtube.com/watch?v=cH4-hHXvO5c)
 - [Oct 26, 2021] Priors in probabilistic numerics @ [Dagstuhl Seminar on 'Probabilistic Numerical Methods - From Theory to Implementation'](https://www.dagstuhl.de/21432). [slides](https://zi-wang.com/pub/Priors_in_probabilistic_numerics_10_26_2021.pdf)
 - [July 29, 2021] Bayesian Optimization @ [Vilnius Machine Learning Workshop (Virtual)](https://workshops.eeml.eu/). [slides](https://zi-wang.com/pub/bayesopt_tutorial.pdf)
