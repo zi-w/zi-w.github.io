@@ -1,3 +1,12 @@
+- ENTRYTYPE: journal
+  ID: wang2023
+  author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
+  booktitle: arXiv:2109.08215
+  title: Pre-trained Gaussian processes for Bayesian optimization
+  url: https://arxiv.org/abs/2109.08215
+  img: /images/pub/hyperbo.gif
+  code: https://github.com/google-research/hyperbo
+  year: '2023'
 - ENTRYTYPE: inproceedings
   ID: tran2022
   author: Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan
@@ -15,15 +24,6 @@
   title: Towards Learning Universal Hyperparameter Optimizers with Transformers
   url: https://arxiv.org/abs/2205.13320
   img: /images/pub/optformer.gif
-  year: '2022'
-- ENTRYTYPE: journal
-  ID: wang2022
-  author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
-  booktitle: arXiv:2109.08215
-  title: Pre-trained Gaussian processes for Bayesian optimization
-  url: https://arxiv.org/abs/2109.08215
-  img: /images/pub/hyperbo.gif
-  code: https://github.com/google-research/hyperbo
   year: '2022'
 - ENTRYTYPE: inproceedings
   ID: zhou2022

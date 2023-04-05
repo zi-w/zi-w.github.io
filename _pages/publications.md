@@ -7,6 +7,27 @@ toc: true
 toc_label: "Publication List" 
 toc_sticky: true 
 ---
+## 2023
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2109.08215"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wang2023" href="https://arxiv.org/abs/2109.08215">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
+     <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
+     </div>         
+     <div>         
+       <em>arXiv:2109.08215, 2023</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2109.08215">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
 ## 2022
 
  <div class="publication">          
@@ -43,26 +64,6 @@ toc_sticky: true
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2205.13320">PDF</a>         
-         
-     </div>         
-   </div>         
- </div> 
- <br>
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/abs/2109.08215"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="wang2022" href="https://arxiv.org/abs/2109.08215">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
-     <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
-     </div>         
-     <div>         
-       <em>arXiv:2109.08215, 2022</em> 
- <br> 
- 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2109.08215">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
          
      </div>         
    </div>         
