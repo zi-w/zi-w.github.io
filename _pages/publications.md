@@ -20,6 +20,8 @@ toc_sticky: true
        <em>arXiv:2109.08215, 2023</em> 
  <br> 
  
+       <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html">Blog</a>         
+          
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2109.08215">PDF</a>         
           
        <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
@@ -63,7 +65,11 @@ toc_sticky: true
        <em>Advances in Neural Information Processing Systems (NeurIPS), 2022</em> 
  <br> 
  
+       <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2022/08/optformer-towards-universal.html">Blog</a>         
+          
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2205.13320">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google-research/optformer">Code</a>         
          
      </div>         
    </div>         

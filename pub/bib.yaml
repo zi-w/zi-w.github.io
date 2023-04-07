@@ -6,6 +6,7 @@
   url: https://arxiv.org/abs/2109.08215
   img: /images/pub/hyperbo.gif
   code: https://github.com/google-research/hyperbo
+  blog: https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html
   year: '2023'
 - ENTRYTYPE: inproceedings
   ID: tran2022
@@ -23,6 +24,8 @@
   booktitle:  Advances in Neural Information Processing Systems (NeurIPS)
   title: Towards Learning Universal Hyperparameter Optimizers with Transformers
   url: https://arxiv.org/abs/2205.13320
+  blog: https://ai.googleblog.com/2022/08/optformer-towards-universal.html
+  code: https://github.com/google-research/optformer
   img: /images/pub/optformer.gif
   year: '2022'
 - ENTRYTYPE: inproceedings
