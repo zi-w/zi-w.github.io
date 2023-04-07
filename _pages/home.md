@@ -12,6 +12,7 @@ My goal is to build sample efficient learning machines with certifications, whic
 
 ## Bulletin
 
+- Check out our [Google AI blog post on pre-trained Gaussian processes](https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html).
 - Learn about new advances in Bayesian optimization at [Google BayesOpt Speaker Series on YouTube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER). More to come!
 - Check out the [Gaussian Process Seminar Series on YouTube](https://www.youtube.com/channel/UCsEAZc42CX7xv3Rtr82SAeg) -- we had an amazing [series of talks on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/) and hosted a [NeurIPS 2022 Workshop](https://gp-seminar-series.github.io/neurips-2022/) on these topics. Stay tuned for more.
 
