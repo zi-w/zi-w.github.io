@@ -5,6 +5,8 @@ author_profile: true
 layout: single 
 classes: wide
 ---
+- [Jun 7, 2023] Using pre-trained models and Gaussian processes to make uncertainty-aware decisions @ [Sustainable Urban Mobility: Simulation and Optimization Workshop](https://rsvp.withgoogle.com/events/urban-mobility-workshop), Mountain View, CA, Jun 2023.
+- [Mar 9, 2023] Experimental Design and Domain Expertise: The Essential Ingredients for Robot Learning @ [Experimental Design and Active Learning in the Real World Reading Group](https://realworldml.github.io/readinggroup/), Mar 2023
 - [Oct 17, 2022] Pre-trained Gaussian processes for Bayesian optimization @ BayesOpt Session of [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/).
 - [Jul 26, 2022] Panelist of "AutoML in the age of large-pretrained models" @ [AutoML Conference 2022](https://automl.cc/). [video](https://www.youtube.com/watch?v=SrnvX28u-ww)
 - [May 17, 2022] Prior learning for Bayesian optimization @ [HEC Montreal Optimization Days 2022](https://symposia.gerad.ca/jopt2022/en/home).

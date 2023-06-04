@@ -11,6 +11,44 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2305.18213"><img class="img_responsive" src="/images/pub/gpp.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wang2023gpp" href="https://arxiv.org/abs/2305.18213">Gaussian Process Probes (GPP) for Uncertainty-Aware Probing</a></div>         
+     <div class="authors"><strong>Zi Wang</strong>*, Alexander Ku*, Jason Baldridge, Thomas L. Griffiths, Been Kim         
+     </div>         
+     <div>         
+       <em>arXiv:2305.18213, 2023</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2305.18213">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google-research/gpax">Code</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2305.19234"><img class="img_responsive" src="/images/pub/grammar.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wang2023grammar" href="https://arxiv.org/abs/2305.19234">Grammar Prompting for Domain-Specific Language Generation with Large Language Models</a></div>         
+     <div class="authors">Bailin Wang, <strong>Zi Wang</strong>, Xuezhi Wang, Yuan Cao, Rif A. Saurous, Yoon Kim         
+     </div>         
+     <div>         
+       <em>arXiv:2305.18213, 2023</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2305.19234">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://arxiv.org/abs/2109.08215"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2023" href="https://arxiv.org/abs/2109.08215">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
