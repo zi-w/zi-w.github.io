@@ -3,7 +3,7 @@ title: "CV"
 layout: single
 permalink: /CV/
 author_profile: true
-last_modified_at: Jan 15, 2023
+last_modified_at: Jun 5, 2023
 classes: wide
 ---
 <section class="page__content" itemprop="text">
