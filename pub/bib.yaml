@@ -1,19 +1,20 @@
-- ENTRYTYPE: journal
+- ENTRYTYPE: inproceedings
   ID: wang2023gpp
   author: Zi Wang*, Alexander Ku*, Jason Baldridge, Thomas L. Griffiths, Been Kim
-  booktitle: arXiv:2305.18213
+  booktitle: Advances in Neural Information Processing Systems (NeurIPS)
   title: Gaussian Process Probes (GPP) for Uncertainty-Aware Probing
   url: https://arxiv.org/abs/2305.18213
   img: /images/pub/gpp.png
   code: https://github.com/google-research/gpax
   year: '2023'
-- ENTRYTYPE: journal
+- ENTRYTYPE: inproceedings
   ID: wang2023grammar
   author: Bailin Wang, Zi Wang, Xuezhi Wang, Yuan Cao, Rif A. Saurous, Yoon Kim
-  booktitle: arXiv:2305.18213
+  booktitle: Advances in Neural Information Processing Systems (NeurIPS)
   title: Grammar Prompting for Domain-Specific Language Generation with Large Language Models
   url: https://arxiv.org/abs/2305.19234
   img: /images/pub/grammar.png
+  code: https://github.com/berlino/grammar-prompting
   year: '2023'
 - ENTRYTYPE: journal
   ID: wang2023

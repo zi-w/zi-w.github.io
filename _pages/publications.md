@@ -17,7 +17,7 @@ toc_sticky: true
      <div class="authors"><strong>Zi Wang</strong>*, Alexander Ku*, Jason Baldridge, Thomas L. Griffiths, Been Kim         
      </div>         
      <div>         
-       <em>arXiv:2305.18213, 2023</em> 
+       <em>Advances in Neural Information Processing Systems (NeurIPS), 2023</em> 
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2305.18213">PDF</a>         
@@ -37,10 +37,12 @@ toc_sticky: true
      <div class="authors">Bailin Wang, <strong>Zi Wang</strong>, Xuezhi Wang, Yuan Cao, Rif A. Saurous, Yoon Kim         
      </div>         
      <div>         
-       <em>arXiv:2305.18213, 2023</em> 
+       <em>Advances in Neural Information Processing Systems (NeurIPS), 2023</em> 
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2305.19234">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/berlino/grammar-prompting">Code</a>         
          
      </div>         
    </div>         

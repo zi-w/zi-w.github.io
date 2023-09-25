@@ -5,16 +5,26 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Zi Wang, and I am a research scientist at Google Brain. I received my Ph.D. in computer science from MIT, with a dissertation on robot learning with strong priors. Previously, I was an undergraduate at Tsinghua and a visiting scholar at USC where I started working on machine learning. Before that, I worked on research projects in the realm of mathematical optimization and modeling.
+Hello! My name is Zi Wang, and I am a research scientist at Google DeepMind. My research is motivated by intelligent decision making, and currently focuses on [understanding](https://arxiv.org/abs/2305.18213) and [improving](https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html) the alignment between human judgements and Bayesian beliefs in AI systems.
+
+My prior experiences are in machine learning and robotics, including Bayesian optimization, learning for task and motion planning, active learning, and Gaussian processes. I completed my Ph.D. in Computer Science at MIT, advised by [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) and [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/). I received my S.M. in Electrical Engineering and Computer Science from MIT, advised by [Stefanie Jegelka](https://people.csail.mit.edu/stefje/index.html) and [Leslie Kaelbling](https://people.csail.mit.edu/lpk/).
 
 
-My goal is to build sample efficient learning machines with certifications, which requires intelligent data acquisition strategies and understanding of circumstances where we have performance guarantees. My work lies in the intersections of Bayesian optimization, active learning, prior learning, rule learning, integrated learning and planning, and symbolic AI.
+## Other roles
+
+- Host and organizer of the [Google Bayesian Optimization Speaker Series on YouTube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER). 
+
+- Co-organizer of the [Seminar Series on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/) and its [NeurIPS 2022 Workshop](https://gp-seminar-series.github.io/neurips-2022/).
+
+- Co-organizer of the [NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World](https://realworldml.github.io/neurips2023/).
+
+- Area Chair of AISTATS 2023-2024, ICLR 2024.
+
 
 ## Bulletin
-
-- Check out our [Google AI blog post on pre-trained Gaussian processes](https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html).
-- Learn about new advances in Bayesian optimization at [Google BayesOpt Speaker Series on YouTube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER). More to come!
-- Check out the [Gaussian Process Seminar Series on YouTube](https://www.youtube.com/channel/UCsEAZc42CX7xv3Rtr82SAeg) -- we had an amazing [series of talks on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/) and hosted a [NeurIPS 2022 Workshop](https://gp-seminar-series.github.io/neurips-2022/) on these topics. Stay tuned for more.
+- Our paper [**Gaussian Process Probes (GPP) for Uncertainty-Aware Probing**](https://arxiv.org/abs/2305.18213) was accepted at NeurIPS 2023.
+- Our paper [**Grammar Prompting for Domain-Specific Language Generation with Large Language Models**](https://arxiv.org/abs/2305.19234) was accepted at NeurIPS 2023.
+- I am co-organizing [NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World](https://realworldml.github.io/neurips2023/). 
 
 
 ## Contact
