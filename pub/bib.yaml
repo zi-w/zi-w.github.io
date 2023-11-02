@@ -1,4 +1,12 @@
 - ENTRYTYPE: inproceedings
+  ID: zhou2023
+  author: Zhou Fan, Xinran Han, Zi Wang
+  booktitle:  arXiv:2309.16597
+  title: Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces
+  url: https://arxiv.org/abs/2309.16597
+  img: /images/pub/mphd.png
+  year: '2023'
+- ENTRYTYPE: inproceedings
   ID: wang2023gpp
   author: Zi Wang*, Alexander Ku*, Jason Baldridge, Thomas L. Griffiths, Been Kim
   booktitle: Advances in Neural Information Processing Systems (NeurIPS)

@@ -5,9 +5,9 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Zi Wang, and I am a research scientist at Google DeepMind. My research is motivated by intelligent decision making, and currently focuses on [understanding](https://arxiv.org/abs/2305.18213) and [improving](https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html) the alignment between human judgements and Bayesian beliefs in AI systems.
+Hello! I am a senior research scientist at Google DeepMind. My research is motivated by intelligent decision making, and currently focuses on [understanding](https://arxiv.org/abs/2305.18213) and [improving](https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html) the alignment between human judgements and Bayesian beliefs in AI systems.
 
-My prior experiences are in machine learning and robotics, including Bayesian optimization, learning for task and motion planning, active learning, and Gaussian processes. I completed my Ph.D. in Computer Science at MIT, advised by [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) and [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/). I received my S.M. in Electrical Engineering and Computer Science from MIT, advised by [Stefanie Jegelka](https://people.csail.mit.edu/stefje/index.html) and [Leslie Kaelbling](https://people.csail.mit.edu/lpk/).
+My prior experiences are in machine learning and robotics, including Bayesian optimization, learning for task and motion planning, active learning, and Gaussian processes. I completed my Ph.D. in Computer Science at MIT, advised by [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) and [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/). I received my S.M. in Electrical Engineering and Computer Science from MIT, advised by [Stefanie Jegelka](https://people.csail.mit.edu/stefje/index.html) and [Leslie Kaelbling](https://people.csail.mit.edu/lpk/). [Click here for my CV.](https://ziw.mit.edu/CV/)
 
 
 ## Other roles

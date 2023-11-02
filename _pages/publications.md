@@ -11,6 +11,24 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2309.16597"><img class="img_responsive" src="/images/pub/mphd.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="zhou2023" href="https://arxiv.org/abs/2309.16597">Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces</a></div>         
+     <div class="authors">Zhou Fan, Xinran Han, <strong>Zi Wang</strong>         
+     </div>         
+     <div>         
+       <em>arXiv:2309.16597, 2023</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2309.16597">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://arxiv.org/abs/2305.18213"><img class="img_responsive" src="/images/pub/gpp.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2023gpp" href="https://arxiv.org/abs/2305.18213">Gaussian Process Probes (GPP) for Uncertainty-Aware Probing</a></div>         
