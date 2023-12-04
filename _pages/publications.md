@@ -29,6 +29,24 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2312.00486"><img class="img_responsive" src="/images/pub/reducr.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="bankes2023" href="https://arxiv.org/abs/2312.00486">REDUCR: Robust Data Downsampling Using Class Priority Reweighting</a></div>         
+     <div class="authors">William Bankes, George Hughes, Ilija Bogunovic, <strong>Zi Wang</strong>         
+     </div>         
+     <div>         
+       <em>arXiv:2312.00486, 2023</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2312.00486">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://arxiv.org/abs/2305.18213"><img class="img_responsive" src="/images/pub/gpp.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2023gpp" href="https://arxiv.org/abs/2305.18213">Gaussian Process Probes (GPP) for Uncertainty-Aware Probing</a></div>         

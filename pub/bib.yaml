@@ -7,6 +7,14 @@
   img: /images/pub/mphd.png
   year: '2023'
 - ENTRYTYPE: inproceedings
+  ID: bankes2023
+  author: William Bankes, George Hughes, Ilija Bogunovic, Zi Wang
+  booktitle: arXiv:2312.00486
+  title: 'REDUCR: Robust Data Downsampling Using Class Priority Reweighting'
+  url: https://arxiv.org/abs/2312.00486
+  img: /images/pub/reducr.png
+  year: '2023'
+- ENTRYTYPE: inproceedings
   ID: wang2023gpp
   author: Zi Wang*, Alexander Ku*, Jason Baldridge, Thomas L. Griffiths, Been Kim
   booktitle: Advances in Neural Information Processing Systems (NeurIPS)

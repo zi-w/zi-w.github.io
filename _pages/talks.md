@@ -5,11 +5,13 @@ author_profile: true
 layout: single 
 classes: wide
 ---
-- [Jun 7, 2023] Using pre-trained models and Gaussian processes to make uncertainty-aware decisions @ [Sustainable Urban Mobility: Simulation and Optimization Workshop](https://rsvp.withgoogle.com/events/urban-mobility-workshop), Mountain View, CA, Jun 2023.
-- [Mar 9, 2023] Experimental Design and Domain Expertise: The Essential Ingredients for Robot Learning @ [Experimental Design and Active Learning in the Real World Reading Group](https://realworldml.github.io/readinggroup/), Mar 2023
-- [Oct 17, 2022] Pre-trained Gaussian processes for Bayesian optimization @ BayesOpt Session of [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/).
-- [Jul 26, 2022] Panelist of "AutoML in the age of large-pretrained models" @ [AutoML Conference 2022](https://automl.cc/). [video](https://www.youtube.com/watch?v=SrnvX28u-ww)
-- [May 17, 2022] Prior learning for Bayesian optimization @ [HEC Montreal Optimization Days 2022](https://symposia.gerad.ca/jopt2022/en/home).
+- [Nov 15, 2023] Towards Bridging the Gap Between Human and AI Beliefs: Gaussian Process Probes and Pre-trained Gaussian Processes @ AI Centre of University College London, UK.
+- [Nov 15, 2023] Towards Bridging the Gap Between Human and AI Beliefs: Gaussian Process Probes and Pre-trained Gaussian Processes @ Imperial College London, UK.
+- [Jun 7, 2023] Using pre-trained models and Gaussian processes to make uncertainty-aware decisions @ [Sustainable Urban Mobility: Simulation and Optimization Workshop](https://rsvp.withgoogle.com/events/urban-mobility-workshop), Mountain View, CA.
+- [Mar 9, 2023] Experimental Design and Domain Expertise: The Essential Ingredients for Robot Learning @ [Seminars on Experimental Design and Active Learning in the Real World](https://realworldml.github.io/readinggroup/) (Virtual).
+- [Oct 17, 2022] Pre-trained Gaussian processes for Bayesian optimization @ BayesOpt Session of [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/), Indianapolis, IN.
+- [Jul 26, 2022] Panelist of "AutoML in the age of large-pretrained models" @ [AutoML Conference 2022](https://2022.automl.cc/), Baltimore, MD. [video](https://www.youtube.com/watch?v=SrnvX28u-ww)
+- [May 17, 2022] Prior learning for Bayesian optimization @ [HEC Montreal Optimization Days 2022](https://symposia.gerad.ca/jopt2022/en/home), Montreal, Canada.
 - [May 5, 2022] Pre-training helps Bayesian optimization too @ [AutoML Seminars](https://automl-seminars.github.io/). [video](https://www.youtube.com/watch?v=cH4-hHXvO5c)
 - [Oct 26, 2021] Priors in probabilistic numerics @ [Dagstuhl Seminar on 'Probabilistic Numerical Methods - From Theory to Implementation'](https://www.dagstuhl.de/21432). [slides](https://zi-wang.com/pub/Priors_in_probabilistic_numerics_10_26_2021.pdf)
 - [July 29, 2021] Bayesian Optimization @ [Vilnius Machine Learning Workshop (Virtual)](https://workshops.eeml.eu/). [slides](https://zi-wang.com/pub/bayesopt_tutorial.pdf)
