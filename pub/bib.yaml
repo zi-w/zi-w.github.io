@@ -46,12 +46,13 @@
 - ENTRYTYPE: inproceedings
   ID: tran2022
   author: Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan
-  booktitle:  arXiv:2207.07411 [cs.LG]
+  booktitle:  arXiv:2207.07411 [cs.LG]; ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift
   title: 'Plex: Towards Reliability using Pretrained Large Model Extensions'
   url: https://arxiv.org/abs/2207.07411
   img: /images/pub/plex.png
   code: https://github.com/google/uncertainty-baselines/tree/main/experimental/plex
   blog: https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html
+  short: https://openreview.net/pdf?id=6x0gB9gOHFg
   year: '2022'
 - ENTRYTYPE: inproceedings
   ID: chen2022
@@ -81,16 +82,6 @@
   img: /images/pub/hyperbo.png
   code: https://github.com/google-research/hyperbo
   slides: /pub/hyperbo_slides.pdf
-  year: '2022'
-- ENTRYTYPE: inproceedings
-  ID: tran2022workshop
-  author: Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan
-  booktitle:  ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift
-  title: 'Plex: Towards Reliability using Pretrained Large Model Extensions (Workshop Version)'
-  url: https://openreview.net/pdf?id=6x0gB9gOHFg
-  img: /images/pub/plex.png
-  code: https://github.com/google/uncertainty-baselines/tree/main/experimental/plex
-  blog: https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html
   year: '2022'
 - ENTRYTYPE: journal
   ID: wangIJRR2021
