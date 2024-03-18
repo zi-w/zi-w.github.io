@@ -76,7 +76,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-google_scholar           : &google_scholar "U0egIsIAAAAJ&hl"
+google_scholar           : &google_scholar "5Q-JdyAAAAAJ"
 twitter:
   username               : &twitter "ziwphd"
 facebook:
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Zi Wang, Ph.D."
-  avatar           : "/images/bio.png"
+  avatar           : "/images/bio.jpeg"
   bio              : "Research Scientist"
   location         : "Cambridge, MA"
   email            : "wangzi@google.com"

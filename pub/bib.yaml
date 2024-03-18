@@ -1,15 +1,16 @@
-- ENTRYTYPE: inproceedings
+- ENTRYTYPE: journal
   ID: zhou2023
   author: Zhou Fan, Xinran Han, Zi Wang
-  booktitle:  arXiv:2309.16597
+  booktitle:  Transactions on Machine Learning Research (TMLR)
   title: Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces
   url: https://arxiv.org/abs/2309.16597
+  code: https://github.com/Evensgn/hyperbo-mphd
   img: /images/pub/mphd.png
-  year: '2023'
+  year: '2024'
 - ENTRYTYPE: inproceedings
   ID: bankes2023
   author: William Bankes, George Hughes, Ilija Bogunovic, Zi Wang
-  booktitle: arXiv:2312.00486
+  booktitle:  arXiv:2312.00486 [cs.LG]
   title: 'REDUCR: Robust Data Downsampling Using Class Priority Reweighting'
   url: https://arxiv.org/abs/2312.00486
   img: /images/pub/reducr.png
@@ -35,7 +36,7 @@
 - ENTRYTYPE: journal
   ID: wang2023
   author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
-  booktitle: arXiv:2109.08215
+  booktitle: arXiv:2109.08215 [cs.LG]
   title: Pre-trained Gaussian processes for Bayesian optimization
   url: https://arxiv.org/abs/2109.08215
   img: /images/pub/hyperbo.gif
@@ -45,7 +46,7 @@
 - ENTRYTYPE: inproceedings
   ID: tran2022
   author: Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan
-  booktitle: arXiv:2207.07411; ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift
+  booktitle:  arXiv:2207.07411 [cs.LG]
   title: 'Plex: Towards Reliability using Pretrained Large Model Extensions'
   url: https://arxiv.org/abs/2207.07411
   img: /images/pub/plex.png
@@ -80,6 +81,16 @@
   img: /images/pub/hyperbo.png
   code: https://github.com/google-research/hyperbo
   slides: /pub/hyperbo_slides.pdf
+  year: '2022'
+- ENTRYTYPE: inproceedings
+  ID: tran2022workshop
+  author: Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan
+  booktitle:  ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift
+  title: 'Plex: Towards Reliability using Pretrained Large Model Extensions (Workshop Version)'
+  url: https://openreview.net/pdf?id=6x0gB9gOHFg
+  img: /images/pub/plex.png
+  code: https://github.com/google/uncertainty-baselines/tree/main/experimental/plex
+  blog: https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html
   year: '2022'
 - ENTRYTYPE: journal
   ID: wangIJRR2021

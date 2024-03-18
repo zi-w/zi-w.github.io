@@ -7,7 +7,7 @@ toc: true
 toc_label: "Publication List" 
 toc_sticky: true 
 ---
-## 2023
+## 2024
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
@@ -17,15 +17,18 @@ toc_sticky: true
      <div class="authors">Zhou Fan, Xinran Han, <strong>Zi Wang</strong>         
      </div>         
      <div>         
-       <em>arXiv:2309.16597, 2023</em> 
+       <em>Transactions on Machine Learning Research (TMLR), 2024</em> 
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2309.16597">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/Evensgn/hyperbo-mphd">Code</a>         
          
      </div>         
    </div>         
  </div> 
  <br>
+## 2023
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
@@ -35,7 +38,7 @@ toc_sticky: true
      <div class="authors">William Bankes, George Hughes, Ilija Bogunovic, <strong>Zi Wang</strong>         
      </div>         
      <div>         
-       <em>arXiv:2312.00486, 2023</em> 
+       <em>arXiv:2312.00486 [cs.LG], 2023</em> 
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2312.00486">PDF</a>         
@@ -93,7 +96,7 @@ toc_sticky: true
      <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
      </div>         
      <div>         
-       <em>arXiv:2109.08215, 2023</em> 
+       <em>arXiv:2109.08215 [cs.LG], 2023</em> 
  <br> 
  
        <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html">Blog</a>         
@@ -116,7 +119,7 @@ toc_sticky: true
      <div class="authors">Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, <strong>Zi Wang</strong>, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan         
      </div>         
      <div>         
-       <em>arXiv:2207.07411; ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift, 2022</em> 
+       <em>arXiv:2207.07411 [cs.LG], 2022</em> 
  <br> 
  
        <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html">Blog</a>         
@@ -189,6 +192,28 @@ toc_sticky: true
          
        <a class="btn btn--info btn--small" href="/pub/hyperbo_slides.pdf">Slides</a>         
        
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://openreview.net/pdf?id=6x0gB9gOHFg"><img class="img_responsive" src="/images/pub/plex.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="tran2022workshop" href="https://openreview.net/pdf?id=6x0gB9gOHFg">Plex: Towards Reliability using Pretrained Large Model Extensions (Workshop Version)</a></div>         
+     <div class="authors">Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, <strong>Zi Wang</strong>, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan         
+     </div>         
+     <div>         
+       <em>ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift, 2022</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html">Blog</a>         
+          
+       <a class="btn btn--success btn--small" href="https://openreview.net/pdf?id=6x0gB9gOHFg">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google/uncertainty-baselines/tree/main/experimental/plex">Code</a>         
+         
      </div>         
    </div>         
  </div> 
