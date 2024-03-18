@@ -128,7 +128,7 @@ toc_sticky: true
           
        <a class="btn btn--warning btn--small" href="https://github.com/google/uncertainty-baselines/tree/main/experimental/plex">Code</a>         
          
-       <a class="btn btn--light btn--small" href="https://openreview.net/pdf?id=6x0gB9gOHFg">Short version</a>         
+       <a class="btn btn--secondary btn--small" href="https://openreview.net/pdf?id=6x0gB9gOHFg">Short version</a>         
        
      </div>         
    </div>         

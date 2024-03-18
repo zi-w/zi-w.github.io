@@ -77,7 +77,7 @@ for i in sorted(by_year.keys(), reverse = True):
       '.format(p['slides']))
     if 'short' in p:
       f.write('\n \
-      <a class="btn btn--light btn--small" href="{}">Short version</a>         \n \
+      <a class="btn btn--secondary btn--small" href="{}">Short version</a>         \n \
       '.format(p['short']))
     if 'poster' in p:
       f.write('\n \
