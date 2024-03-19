@@ -32,7 +32,7 @@ My prior experiences are in machine learning and robotics, including Bayesian op
 ### Work
 wangzi 'at' google 'dot' com
 
-Due to a large volume of interest, I am currently unable to respond to every inquiry regarding mentorship and intern/full-time positions. Thank you for your understanding and please consider [Google CSRMP](https://research.google/outreach/csrmp/), [GDM Scholarships](https://deepmind.google/about/education/) and [GDM Careers](deepmind.google/about/careers) for relevant opportunities.
+Due to a large volume of interest, I am currently unable to respond to every inquiry regarding mentorship and intern/full-time positions. Thank you for your understanding and please consider [Google CSRMP](https://research.google/outreach/csrmp/), [GDM Scholarships](https://deepmind.google/about/education/) and [GDM Careers](https://deepmind.google/about/careers) for relevant opportunities.
 
 ### Personal
 ziw 'at' csail 'dot' mit 'dot' edu
