@@ -14,7 +14,7 @@ My prior experiences are in machine learning and robotics, including Bayesian op
 
 - Host and organizer of the [Google Bayesian Optimization Speaker Series on YouTube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER). 
 
-- Co-organizer of the [Seminar Series on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/) and its [NeurIPS 2022 Workshop](https://gp-seminar-series.github.io/neurips-2022/).
+- Co-organizer of the [Seminar Series on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/), its [NeurIPS 2022 Workshop](https://gp-seminar-series.github.io/neurips-2022/) and [NeurIPS 2024 Workshop](https://gp-seminar-series.github.io/neurips-2024/).
 
 - Co-organizer of the [NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World](https://realworldml.github.io/neurips2023/).
 
