@@ -5,6 +5,8 @@ author_profile: true
 layout: single 
 classes: wide
 ---
+- [Sep 5, 2024] Transfer Learning for  Bayesian Optimization on Homogeneous and Heterogeneous Search Spaces @ National University of Singapore (NUS), Singapore.
+- [Jun 24, 2024] Transfer Learning for  Bayesian Optimization on Homogeneous and Heterogeneous Search Spaces @ Meta Adaptive Experimentation Workshop, New York, USA.
 - [Nov 15, 2023] Towards Bridging the Gap Between Human and AI Beliefs: Gaussian Process Probes and Pre-trained Gaussian Processes @ AI Centre of University College London, UK.
 - [Nov 15, 2023] Towards Bridging the Gap Between Human and AI Beliefs: Gaussian Process Probes and Pre-trained Gaussian Processes @ Imperial College London, UK.
 - [Jun 7, 2023] Using pre-trained models and Gaussian processes to make uncertainty-aware decisions @ [Sustainable Urban Mobility: Simulation and Optimization Workshop](https://rsvp.withgoogle.com/events/urban-mobility-workshop), Mountain View, CA.

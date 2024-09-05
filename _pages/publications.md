@@ -11,6 +11,28 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="http://jmlr.org/papers/v25/23-0269.html"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="wang2023" href="http://jmlr.org/papers/v25/23-0269.html">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
+     <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
+     </div>         
+     <div>         
+       <em>Journal of Machine Learning Research (JMLR), 2024</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="https://research.google/blog/pre-trained-gaussian-processes-for-bayesian-optimization/">Blog</a>         
+          
+       <a class="btn btn--success btn--small" href="http://jmlr.org/papers/v25/23-0269.html">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://arxiv.org/abs/2309.16597"><img class="img_responsive" src="/images/pub/mphd.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="zhou2023" href="https://arxiv.org/abs/2309.16597">Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces</a></div>         
@@ -82,28 +104,6 @@ toc_sticky: true
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2305.19234">PDF</a>         
           
        <a class="btn btn--warning btn--small" href="https://github.com/berlino/grammar-prompting">Code</a>         
-         
-     </div>         
-   </div>         
- </div> 
- <br>
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/abs/2109.08215"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="wang2023" href="https://arxiv.org/abs/2109.08215">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
-     <div class="authors"><strong>Zi Wang</strong>, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani         
-     </div>         
-     <div>         
-       <em>arXiv:2109.08215 [cs.LG], 2023</em> 
- <br> 
- 
-       <a class="btn btn--primary btn--small" href="https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html">Blog</a>         
-          
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2109.08215">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="https://github.com/google-research/hyperbo">Code</a>         
          
      </div>         
    </div>         

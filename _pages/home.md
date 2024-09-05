@@ -18,10 +18,11 @@ My prior experiences are in machine learning and robotics, including Bayesian op
 
 - Co-organizer of the [NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World](https://realworldml.github.io/neurips2023/).
 
-- Area Chair of AISTATS 2023-2024, ICLR 2024.
+- Area Chair of AISTATS 2023-2024, ICLR 2024-2025.
 
 
 ## Bulletin
+- Our paper [**Pre-trained Gaussian Processes for Bayesian Optimization**](https://jmlr.org/papers/v25/23-0269.html) was accepted at Journal of Machine Learning Research (JMLR)!
 - Our paper [**Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces**](https://arxiv.org/abs/2309.16597) was accepted at Transactions on Machine Learning Research (TMLR)!
 - Our paper [**Gaussian Process Probes (GPP) for Uncertainty-Aware Probing**](https://arxiv.org/abs/2305.18213) was accepted at NeurIPS 2023.
 - Our paper [**Grammar Prompting for Domain-Specific Language Generation with Large Language Models**](https://arxiv.org/abs/2305.19234) was accepted at NeurIPS 2023.

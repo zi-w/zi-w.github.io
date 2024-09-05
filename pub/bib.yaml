@@ -1,4 +1,14 @@
 - ENTRYTYPE: journal
+  ID: wang2023
+  author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
+  booktitle: Journal of Machine Learning Research (JMLR)
+  title: Pre-trained Gaussian processes for Bayesian optimization
+  url: http://jmlr.org/papers/v25/23-0269.html
+  img: /images/pub/hyperbo.gif
+  code: https://github.com/google-research/hyperbo
+  blog: https://research.google/blog/pre-trained-gaussian-processes-for-bayesian-optimization/
+  year: '2024'
+- ENTRYTYPE: journal
   ID: zhou2023
   author: Zhou Fan, Xinran Han, Zi Wang
   booktitle:  Transactions on Machine Learning Research (TMLR)
@@ -32,16 +42,6 @@
   url: https://arxiv.org/abs/2305.19234
   img: /images/pub/grammar.png
   code: https://github.com/berlino/grammar-prompting
-  year: '2023'
-- ENTRYTYPE: journal
-  ID: wang2023
-  author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
-  booktitle: arXiv:2109.08215 [cs.LG]
-  title: Pre-trained Gaussian processes for Bayesian optimization
-  url: https://arxiv.org/abs/2109.08215
-  img: /images/pub/hyperbo.gif
-  code: https://github.com/google-research/hyperbo
-  blog: https://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html
   year: '2023'
 - ENTRYTYPE: inproceedings
   ID: tran2022
