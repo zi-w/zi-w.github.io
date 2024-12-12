@@ -11,6 +11,42 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2412.06771"><img class="img_responsive" src="/images/pub/q4a.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="meera" href="https://arxiv.org/abs/2412.06771">Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty</a></div>         
+     <div class="authors">Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim, <strong>Zi Wang</strong>         
+     </div>         
+     <div>         
+       <em>arXiv:2412.06771 [cs.AI], 2024</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2412.06771">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://arxiv.org/abs/2312.00486"><img class="img_responsive" src="/images/pub/reducr.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="bankes2023" href="https://arxiv.org/abs/2312.00486">REDUCR: Robust Data Downsampling Using Class Priority Reweighting</a></div>         
+     <div class="authors">William Bankes, George Hughes, Ilija Bogunovic, <strong>Zi Wang</strong>         
+     </div>         
+     <div>         
+       <em>Advances in Neural Information Processing Systems (NeurIPS), 2024</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2312.00486">PDF</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="http://jmlr.org/papers/v25/23-0269.html"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2023" href="http://jmlr.org/papers/v25/23-0269.html">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
@@ -51,24 +87,6 @@ toc_sticky: true
  </div> 
  <br>
 ## 2023
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/abs/2312.00486"><img class="img_responsive" src="/images/pub/reducr.png"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="bankes2023" href="https://arxiv.org/abs/2312.00486">REDUCR: Robust Data Downsampling Using Class Priority Reweighting</a></div>         
-     <div class="authors">William Bankes, George Hughes, Ilija Bogunovic, <strong>Zi Wang</strong>         
-     </div>         
-     <div>         
-       <em>arXiv:2312.00486 [cs.LG], 2023</em> 
- <br> 
- 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2312.00486">PDF</a>         
-         
-     </div>         
-   </div>         
- </div> 
- <br>
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         

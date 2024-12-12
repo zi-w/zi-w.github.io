@@ -1,4 +1,20 @@
 - ENTRYTYPE: journal
+  ID: meera
+  author: Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim, Zi Wang
+  booktitle:  arXiv:2412.06771 [cs.AI]
+  title: 'Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty'
+  url: https://arxiv.org/abs/2412.06771
+  img: /images/pub/q4a.png
+  year: '2024'
+- ENTRYTYPE: inproceedings
+  ID: bankes2023
+  author: William Bankes, George Hughes, Ilija Bogunovic, Zi Wang
+  booktitle:  Advances in Neural Information Processing Systems (NeurIPS)
+  title: 'REDUCR: Robust Data Downsampling Using Class Priority Reweighting'
+  url: https://arxiv.org/abs/2312.00486
+  img: /images/pub/reducr.png
+  year: '2024'
+- ENTRYTYPE: journal
   ID: wang2023
   author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
   booktitle: Journal of Machine Learning Research (JMLR)
@@ -17,14 +33,6 @@
   code: https://github.com/Evensgn/hyperbo-mphd
   img: /images/pub/mphd.png
   year: '2024'
-- ENTRYTYPE: inproceedings
-  ID: bankes2023
-  author: William Bankes, George Hughes, Ilija Bogunovic, Zi Wang
-  booktitle:  arXiv:2312.00486 [cs.LG]
-  title: 'REDUCR: Robust Data Downsampling Using Class Priority Reweighting'
-  url: https://arxiv.org/abs/2312.00486
-  img: /images/pub/reducr.png
-  year: '2023'
 - ENTRYTYPE: inproceedings
   ID: wang2023gpp
   author: Zi Wang*, Alexander Ku*, Jason Baldridge, Thomas L. Griffiths, Been Kim
