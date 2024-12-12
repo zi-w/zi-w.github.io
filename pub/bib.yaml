@@ -4,6 +4,7 @@
   booktitle:  arXiv:2412.06771 [cs.AI]
   title: 'Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty'
   url: https://arxiv.org/abs/2412.06771
+  code: https://github.com/google-deepmind/proactive_t2i_agents
   img: /images/pub/q4a.png
   year: '2024'
 - ENTRYTYPE: inproceedings
@@ -12,6 +13,7 @@
   booktitle:  Advances in Neural Information Processing Systems (NeurIPS)
   title: 'REDUCR: Robust Data Downsampling Using Class Priority Reweighting'
   url: https://arxiv.org/abs/2312.00486
+  code: https://github.com/williambankes/REDUCR
   img: /images/pub/reducr.png
   year: '2024'
 - ENTRYTYPE: journal
