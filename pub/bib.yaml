@@ -1,6 +1,6 @@
 - ENTRYTYPE: journal
   ID: meera
-  author: Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim, Zi Wang
+  author: Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim and Zi Wang
   booktitle:  arXiv:2412.06771 [cs.AI]
   title: 'Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty'
   url: https://arxiv.org/abs/2412.06771
@@ -9,7 +9,7 @@
   year: '2024'
 - ENTRYTYPE: inproceedings
   ID: bankes2023
-  author: William Bankes, George Hughes, Ilija Bogunovic, Zi Wang
+  author: William Bankes, George Hughes, Ilija Bogunovic and Zi Wang
   booktitle:  Advances in Neural Information Processing Systems (NeurIPS)
   title: 'REDUCR: Robust Data Downsampling Using Class Priority Reweighting'
   url: https://arxiv.org/abs/2312.00486

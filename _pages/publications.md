@@ -14,7 +14,7 @@ toc_sticky: true
    <div class="img"><a href="https://arxiv.org/abs/2412.06771"><img class="img_responsive" src="/images/pub/q4a.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="meera" href="https://arxiv.org/abs/2412.06771">Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty</a></div>         
-     <div class="authors">Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim, <strong>Zi Wang</strong>         
+     <div class="authors">Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim and <strong>Zi Wang</strong>         
      </div>         
      <div>         
        <em>arXiv:2412.06771 [cs.AI], 2024</em> 
@@ -34,7 +34,7 @@ toc_sticky: true
    <div class="img"><a href="https://arxiv.org/abs/2312.00486"><img class="img_responsive" src="/images/pub/reducr.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="bankes2023" href="https://arxiv.org/abs/2312.00486">REDUCR: Robust Data Downsampling Using Class Priority Reweighting</a></div>         
-     <div class="authors">William Bankes, George Hughes, Ilija Bogunovic, <strong>Zi Wang</strong>         
+     <div class="authors">William Bankes, George Hughes, Ilija Bogunovic and <strong>Zi Wang</strong>         
      </div>         
      <div>         
        <em>Advances in Neural Information Processing Systems (NeurIPS), 2024</em> 
