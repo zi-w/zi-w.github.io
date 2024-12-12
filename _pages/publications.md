@@ -21,6 +21,8 @@ toc_sticky: true
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2412.06771">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/google-deepmind/proactive_t2i_agents">Code</a>         
          
      </div>         
    </div>         
@@ -39,6 +41,8 @@ toc_sticky: true
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2312.00486">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/williambankes/REDUCR">Code</a>         
          
      </div>         
    </div>         
