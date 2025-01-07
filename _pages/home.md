@@ -18,10 +18,12 @@ My prior experiences are in machine learning and robotics, including Bayesian op
 
 - Co-organizer of the [NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World](https://realworldml.github.io/neurips2023/).
 
-- Area Chair of AISTATS 2023-2024, ICLR 2024-2025.
+- Area Chair of AISTATS 2023-2025, ICLR 2024-2025.
 
 
 ## Bulletin
+- Check out our tech report [**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**](https://arxiv.org/abs/2412.06771).
+- Our paper [**REDUCR: Robust data-downsampling using class priority reweighting**](https://arxiv.org/abs/2312.00486) was accepted at NeurIPS 2024!
 - Our paper [**Pre-trained Gaussian Processes for Bayesian Optimization**](https://jmlr.org/papers/v25/23-0269.html) was accepted at Journal of Machine Learning Research (JMLR)!
 - Our paper [**Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces**](https://arxiv.org/abs/2309.16597) was accepted at Transactions on Machine Learning Research (TMLR)!
 - Our paper [**Gaussian Process Probes (GPP) for Uncertainty-Aware Probing**](https://arxiv.org/abs/2305.18213) was accepted at NeurIPS 2023.
@@ -30,10 +32,8 @@ My prior experiences are in machine learning and robotics, including Bayesian op
 
 ## Contact
 
-### Work
 wangzi 'at' google 'dot' com
 
-Due to a large volume of interest, I am currently unable to respond to every inquiry regarding mentorship and intern/full-time positions. Thank you for your understanding and please consider [Google CSRMP](https://research.google/outreach/csrmp/), [GDM Scholarships](https://deepmind.google/about/education/) and [GDM Careers](https://deepmind.google/about/careers) for relevant opportunities.
+For mentorship and career opportunities, please visit [Google CSRMP](https://research.google/outreach/csrmp/), [GDM Scholarships](https://deepmind.google/about/education/) and [GDM Careers](https://deepmind.google/about/careers).
 
-### Personal
 ziw 'at' csail 'dot' mit 'dot' edu
