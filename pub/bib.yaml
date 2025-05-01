@@ -1,0 +1,260 @@
+- ENTRYTYPE: journal
+  ID: meera
+  author: Belinda Z. Li, Been Kim, Zi Wang
+  booktitle: arXiv:2503.22674 [cs.AI]
+  title: 'QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?'
+  url: https://arxiv.org/abs/2503.22674
+  code: https://github.com/google-deepmind/questbench
+  img: /images/pub/questbench.png
+  year: '2025'
+- ENTRYTYPE: inproceedings
+  ID: meera
+  author: Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim and Zi Wang
+  booktitle:  International Conference on Machine Learning (ICML)
+  title: 'Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty'
+  url: https://arxiv.org/abs/2412.06771
+  code: https://github.com/google-deepmind/proactive_t2i_agents
+  img: /images/pub/q4a.png
+  year: '2025'
+- ENTRYTYPE: inproceedings
+  ID: bankes2023
+  author: William Bankes, George Hughes, Ilija Bogunovic and Zi Wang
+  booktitle:  Advances in Neural Information Processing Systems (NeurIPS)
+  title: 'REDUCR: Robust Data Downsampling Using Class Priority Reweighting'
+  url: https://arxiv.org/abs/2312.00486
+  code: https://github.com/williambankes/REDUCR
+  img: /images/pub/reducr.png
+  year: '2024'
+- ENTRYTYPE: journal
+  ID: wang2023
+  author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
+  booktitle: Journal of Machine Learning Research (JMLR)
+  title: Pre-trained Gaussian processes for Bayesian optimization
+  url: http://jmlr.org/papers/v25/23-0269.html
+  img: /images/pub/hyperbo.gif
+  code: https://github.com/google-research/hyperbo
+  blog: https://research.google/blog/pre-trained-gaussian-processes-for-bayesian-optimization/
+  year: '2024'
+- ENTRYTYPE: journal
+  ID: zhou2023
+  author: Zhou Fan, Xinran Han, Zi Wang
+  booktitle:  Transactions on Machine Learning Research (TMLR)
+  title: Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces
+  url: https://arxiv.org/abs/2309.16597
+  code: https://github.com/Evensgn/hyperbo-mphd
+  img: /images/pub/mphd.png
+  year: '2024'
+- ENTRYTYPE: inproceedings
+  ID: wang2023gpp
+  author: Zi Wang*, Alexander Ku*, Jason Baldridge, Thomas L. Griffiths, Been Kim
+  booktitle: Advances in Neural Information Processing Systems (NeurIPS)
+  title: Gaussian Process Probes (GPP) for Uncertainty-Aware Probing
+  url: https://arxiv.org/abs/2305.18213
+  img: /images/pub/gpp.png
+  code: https://github.com/google-research/gpax
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: wang2023grammar
+  author: Bailin Wang, Zi Wang, Xuezhi Wang, Yuan Cao, Rif A. Saurous, Yoon Kim
+  booktitle: Advances in Neural Information Processing Systems (NeurIPS)
+  title: Grammar Prompting for Domain-Specific Language Generation with Large Language Models
+  url: https://arxiv.org/abs/2305.19234
+  img: /images/pub/grammar.png
+  code: https://github.com/berlino/grammar-prompting
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: tran2022
+  author: Dustin Tran, Jeremiah Zhe Liu, Michael W Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda E Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, E. Kelly Buchanan, Kevin Patrick Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan
+  booktitle:  arXiv:2207.07411 [cs.LG]; ICML2022 Workshop on Pre-Training and ICML2022 Workshop on Principles of Distribution Shift
+  title: 'Plex: Towards Reliability using Pretrained Large Model Extensions'
+  url: https://arxiv.org/abs/2207.07411
+  img: /images/pub/plex.png
+  code: https://github.com/google/uncertainty-baselines/tree/main/experimental/plex
+  blog: https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html
+  short: https://openreview.net/pdf?id=6x0gB9gOHFg
+  year: '2022'
+- ENTRYTYPE: inproceedings
+  ID: chen2022
+  author: Yutian Chen, Xingyou Song, Chansoo Lee, Zi Wang, Qiuyi Zhang, David Dohan, Kazuya Kawakami, Greg Kochanski, Arnaud Doucet, Marc'aurelio Ranzato, Sagi Perel, Nando de Freitas
+  booktitle:  Advances in Neural Information Processing Systems (NeurIPS)
+  title: Towards Learning Universal Hyperparameter Optimizers with Transformers
+  url: https://arxiv.org/abs/2205.13320
+  blog: https://ai.googleblog.com/2022/08/optformer-towards-universal.html
+  code: https://github.com/google-research/optformer
+  img: /images/pub/optformer.gif
+  year: '2022'
+- ENTRYTYPE: inproceedings
+  ID: zhou2022
+  author: Zhou Fan, Xinran Han, Zi Wang
+  booktitle: NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems
+  title: 'HyperBO+: Pre-training a universal hierarchical Gaussian process prior for Bayesian optimization'
+  url: https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24.pdf
+  img: /images/pub/hyperboplus.png
+  poster: https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24_poster.pdf
+  year: '2022'
+- ENTRYTYPE: inproceedings
+  ID: wang2022realml
+  author: Zi Wang, George E. Dahl, Kevin Swersky, Chansoo Lee, Zelda Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani
+  booktitle: ICML2022 Workshop on Adaptive Experimental Design and Active Learning in the Real World
+  title: Pre-training helps Bayesian optimization too
+  url: https://arxiv.org/pdf/2207.03084.pdf
+  img: /images/pub/hyperbo.png
+  code: https://github.com/google-research/hyperbo
+  slides: /pub/hyperbo_slides.pdf
+  year: '2022'
+- ENTRYTYPE: journal
+  ID: wangIJRR2021
+  author: Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez
+  booktitle: International Journal of Robotics Research (IJRR)
+  title: Learning compositional models of robot skills for task and motion planning
+  url: https://arxiv.org/abs/2006.06444
+  code: https://github.com/caelan/LTAMP
+  img: /images/pub/ltamp.png
+  project: https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c
+  year: '2021'
+- ENTRYTYPE: inproceedings
+  ID: mariet2020
+  author: Zelda Mariet, Ghassen Jerfel, Zi Wang, Christof Angermüller, David Belanger, Suhani Vora, Maxwell Bileschi, Lucy Colwell, D Sculley, Dustin Tran, Jasper Snoek
+  booktitle: Machine Learning for Molecules Workshop at NeurIPS 2020
+  title: Deep Uncertainty and the Search for Proteins
+  url: https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_23.pdf
+  img: /images/pub/default.png
+  year: '2020'
+- ENTRYTYPE: thesis
+  ID: wang2020
+  author: Zi Wang
+  booktitle: MIT Ph.D. Thesis
+  title: Robot Learning with Strong Priors
+  url: https://dspace.mit.edu/handle/1721.1/128299
+  img: /images/pub/thesis.png
+  year: '2020'
+- ENTRYTYPE: inproceedings
+  ID: xiaICLR2019
+  author: Victoria Xia*, Zi Wang*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling
+  booktitle: International Conference on Learning Representations (ICLR)
+  title: Learning sparse relational transition models
+  url: http://lis.csail.mit.edu/pubs/xia-iclr19.pdf
+  img: /images/pub/spare.png
+  year: '2019'
+- ENTRYTYPE: journal
+  ID: kimIJRR2019
+  author: Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomás Lozano-Pérez
+  booktitle: International Journal of Robotics Research (IJRR)
+  title: Learning to guide task and motion planning using score-space representation
+  url: https://arxiv.org/pdf/1807.09962.pdf
+  img: /images/pub/score.png
+  year: '2019'
+- ENTRYTYPE: inproceedings
+  ID: wangNIPS2018
+  author: Zi Wang*, Beomjoon Kim* and Leslie Pack Kaelbling
+  booktitle: Advances in Neural Information Processing Systems (NIPS)
+  keywords: Gaussian process, Bayesian optimization
+  title: Regret bounds for meta Bayesian optimization with an unknown Gaussian process
+    prior
+  url: /pub/meta_bo/main.pdf
+  img: /images/pub/noprior.png
+  year: '2018'
+  other: <font color="red">Spotlight talk</font> (3.5% acceptance rate)
+  poster: /pub/meta_bo/poster.pdf
+  project: /meta_bo
+  code: https://github.com/beomjoonkim/MetaLearnBO
+- ENTRYTYPE: inproceedings
+  ID: wangIROS2018
+  author: Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomás Lozano-Pérez
+  booktitle: International Conference on Intelligent Robots and Systems (IROS)
+  title: Active model learning and diverse action sampling for task and motion planning
+  url: http://lis.csail.mit.edu/pubs/wang-iros18.pdf
+  year: '2018'
+  project: /projects/kitchen2d
+  code: https://github.com/zi-w/Kitchen2D
+  img: /images/pub/kitchen2d.png
+  slides: /pub/ltamp/index.html
+- ENTRYTYPE: inproceedings
+  ID: wangAISTATS2018
+  author: Zi Wang, Clement Gehring, Pushmeet Kohli and Stefanie Jegelka
+  booktitle: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  keywords: Learning and Optimization
+  title: Batched Large-scale Bayesian Optimization in High-dimensional Spaces
+  url: http://lis.csail.mit.edu/pubs/wang-aistats18.pdf
+  year: '2018'
+  code: https://github.com/zi-w/Ensemble-Bayesian-Optimization
+  img: /images/pub/9.png
+- ENTRYTYPE: inproceedings
+  ID: wangICRA17
+  author: Zi Wang, Stefanie Jegelka, Leslie Pack Kaelbling and Tomás Lozano-Pérez
+  booktitle: IEEE Conference on Robotics and Automation (ICRA)
+  keywords: Learning and Optimization
+  title: Focused Model-Learning and Planning for Non-Gaussian Continuous State-Action
+    Systems
+  url: http://lis.csail.mit.edu/pubs/wang-icra17.pdf
+  year: '2017'
+  project: /projects/mlp
+  slides: https://www.icloud.com/keynote/0SYOebCF3GXhkYjnf0Q0Jn5Uw#talk
+  img: /images/pub/6.png
+- ENTRYTYPE: inproceedings
+  ID: wangICML2017b
+  author: Zi Wang and Stefanie Jegelka
+  booktitle: International Conference on Machine Learning (ICML)
+  keywords: Learning and Optimization
+  title: Max-value Entropy Search for Efficient Bayesian Optimization
+  url: http://lis.csail.mit.edu/pubs/wang-icml17b.pdf
+  year: '2017'
+  code: https://github.com/zi-w/Max-value-Entropy-Search
+  slides: https://www.icloud.com/keynote/0FxhBnGLGBPCopqQH_v8xF_Vw#maxvalue
+  img: /images/pub/7.png
+- ENTRYTYPE: inproceedings
+  ID: wangICML2017a
+  author: Zi Wang*, Chengtao Li*, Stefanie Jegelka and Pushmeet Kohli
+  booktitle: International Conference on Machine Learning (ICML)
+  keywords: Learning and Optimization
+  title: Batched High-dimensional Bayesian Optimization via Structural Kernel Learning
+  url: http://lis.csail.mit.edu/pubs/wang-icml17a.pdf
+  year: '2017'
+  code: https://github.com/zi-w/Structural-Kernel-Learning-for-HDBBO
+  slides: https://www.icloud.com/keynote/0LBVoOAXm9JJIzgKlqpjrQThA#skl
+  img: /images/pub/8.png
+- ENTRYTYPE: inproceedings
+  ID: wang-aistats16
+  author: Zi Wang, Bolei Zhou and Stefanie Jegelka
+  booktitle: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  keywords: Learning and Optimization
+  title: Optimization as Estimation with Gaussian Processes in Bandit Settings
+  url: http://lis.csail.mit.edu/pubs/wang-aistats16.pdf
+  year: '2016'
+  code: https://github.com/zi-w/GP-EST
+  project: /projects/gp-est
+  slides: /pub/gpest_slides.pdf
+  img: /images/pub/5.png
+  other: <font color="red">Oral</font> (6% acceptance rate)
+- ENTRYTYPE: article
+  ID: lu_nipspos_2014
+  author: Zhiyun Lu*, Zi Wang* and Fei Sha
+  booktitle: 'NIPS Workshop: Perturbations, Optimization, and Statistics'
+  title: Fast Learning with Noise in Deep Neural Nets
+  url: https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf
+  year: '2014'
+  img: /images/pub/3.png
+  other: <font color="red">Spotlight talk</font> 
+- ENTRYTYPE: inproceedings
+  ID: wang_icassp_2014
+  author: Zi Wang and Fei Sha
+  booktitle: IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  title: Discriminative Non-Negative Matrix Factorization for Single-Channel Speech
+    Separation
+  url: https://ieeexplore.ieee.org/document/6854302/
+  year: '2014'
+  project: /projects/dnmf
+  poster: /projects/dnmf/wiml.pdf
+  img: /images/pub/1.png
+- ENTRYTYPE: inproceedings
+  ID: chen_nips_2013
+  author: Jianfei Chen, Jun Zhu, Zi Wang, Xun Zheng and Bo Zhang
+  booktitle: Advances in Neural Information Processing Systems (NIPS)
+  title: Scalable Inference for Logistic-Normal Topic Models
+  url: http://papers.nips.cc/paper/4981-scalable-inference-for-logistic-normal-topic-models
+  year: '2013'
+  project: /projects/gctm
+  poster: /projects/gctm/scalablectm_nips.pdf
+  code: http://ml-thu.net/~jianfei/static/ScaCTM.tar.gz
+  img: /images/pub/2.png

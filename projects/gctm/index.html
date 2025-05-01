@@ -1,0 +1,59 @@
+
+<meta charset="utf-8">
+<title>Scalable Inference for Logistic-Normal Topic Models</title>
+<link rel="stylesheet" type="text/css" href="style-index.css" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?86ae30edb073688843faeb8b4226d9ae";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+<h1>Scalable Inference for Logistic-Normal Topic Models</h1>
+<p>
+<a href="http://ml-thu.net/~jianfei/">Jianfei Chen</a>, <a href="http://www.ml-thu.net/~jun/">Jun Zhu</a>, <a href="http://www.ml-thu.net/~wangzi">Zi Wang</a>, <a href="http://www.cs.cmu.edu/directory/xun-zheng">Xun Zheng</a> and <a href="http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html">Bo Zhang</a>
+</p>
+<p>
+<a href="http://www.tsinghua.edu.cn/publish/cs/4760/index.html">State Key Lab of Intelligent Tech. & Systems</a>; <a href="http://www.tnlist.org.cn/pages/english.jsp">Tsinghua National TNList Lab</a>;
+<a href="http://www.cs.tsinghua.edu.cn/publish/csen/index.html">Department of Computer Science and Technology</a>, <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua University</a>, <a href="http://ditu.google.cn/maps?q=Beijing+100084,+China&hl=zh-CN&ie=UTF8&sll=39.90403,116.407526&sspn=0.628917,1.234589&brcurrent=3,0x35f053b5bd1f38b9:0x998bd5907e3f5486,0,0x35f05137c865ad63:0xd348af83c67dc389%3B5,0,0&hnear=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B5%B7%E6%B7%80%E5%8C%BA+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+100084&t=m&z=13">Beijing 100084, China</a>
+</p>
+{chenjf10,wangzi10}@mails.tsinghua.edu.cn;
+{dcszj,dcszb}@mail.tsinghua.edu.cn; xunzheng@cs.cmu.edu
+</p>
+<h2>Abstract</h2>
+<p>
+Logistic-normal topic models can effectively discover correlation structures among latent topics. However, their inference remains a challenge because of the non-conjugacy between the logistic-normal prior and multinomial topic mixing proportions. Existing algorithms either make restricting mean-field assumptions or are not scalable to large-scale applications. This paper presents a partially collapsed Gibbs sampling algorithm that approaches the provably correct distribution by exploring the ideas of data augmentation. To improve time efficiency, we further present a parallel implementation that can deal with large-scale applications and learn the correlation structures of thousands of topics from millions of documents. Extensive empirical results demonstrate the promise.
+</p>
+<h2>Full text</h2>
+<p>
+<a href="scalable-ctm.pdf">Download</a> (1.85 MB)
+</p>
+<h2>Code</h2>
+<p>
+<a onclick="_hmt.push(['_trackEvent', 'sourcecode', 'download', 'ScaCTM.tar.gz'])" href="http://ml-thu.net/~jianfei/static/ScaCTM.tar.gz">Download</a> (0.36 MB)
+</p>
+<p>
+<a href="https://github.com/cjf00000/ScaCTM">GitHub</a>
+</p>
+<h2>Approximate BibTex Entry</h2>
+
+<p class="bibtex">@inproceedings{chen_nips_2013,<br>&nbsp;&nbsp;&nbsp;&nbsp;Year = {2013},<br>&nbsp;&nbsp;&nbsp;&nbsp;Booktitle = {Advances in Neural Information Processing Systems},<br>&nbsp;&nbsp;&nbsp;&nbsp;Author = {Chen, Jianfei and Zhu, Jun and Wang, Zi and Zheng, Xun and Zhang, Bo},<br>&nbsp;&nbsp;&nbsp;&nbsp;Title = {Scalable Inference for Logistic-Normal Topic Models}<br>}</p>
+<h2>Demonstration</h2>
+<p><aside><a style="position:relative;top:-30px;" href="ctmvis.html" target="_blank">Open in a new window.</a></aside></p>
+<iframe src="ctmvis.html" width="800px" height="495px" marginwidth="50" marginheight="50" scrolling="no"></iframe>
+<h3>Click on "nodes" to view the topics it contains.</h3>
+<p>
+This is a visualization for the correlation structure of 1,000 topics learned by CTM using our scalable sampler on the NYTimes corpus with 285,000 documents.
+We now build a 2-layer hierarchy by clustering the learned topics, with their learned correlation strength as the similarity measure. 
+To represent their semantic meanings, we present 20 most frequent words for each topic in the box at the corner; and for each topic cluster, we also show most frequent words by building a hyper-topic that aggregates all the included topics. 
+On the top layer, the size of each node is proportional to the topics contained in the hyper-topic. Clearly, we can see that many topics have strong correlations and the structure is useful to help humans understand/browse the large collection of topics.
+With 40 machines, our parallel Gibbs sampler finishes the training in 2 hours, which means that we are able to process real world corpus in considerable speed.
+</p>
+<footer>
+<aside>Aug 27, 2015</aside>
+</footer>
