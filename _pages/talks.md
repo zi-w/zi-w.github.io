@@ -5,10 +5,14 @@ author_profile: true
 layout: single 
 classes: wide
 ---
-- [Apr 1st, 2025] Proactive Agents for More Accessible and Inclusive Human-AI Co-creation @ Human Development Report Office of the [United Nations Development Programme (UNDP)](https://www.undp.org/), New York, USA.
-- [Jan 27th, 2025] Proactive Agents for Better Interactions and Alignment with Humans @ 2025 MIT-Google Workshop, MIT, Cambridge, MA, USA.
-- [Dec 11th, 2024] Pre-trained Gaussian Processes for Bayesian Optimization @ NeurIPS Journal-to-Conference Track. [video and slides](https://neurips.cc/virtual/2024/poster/98319)
-- [Dec 4th, 2024] Proactive LLMs for better interactions and alignment with humans @ AE: Global Summit on Open Problems for AI at Boston Museum of Science, USA.
+- [Nov 20, 2025] Data-efficient training and optimization @ HEC Montreal, Montreal, Canada.
+- [Nov 13, 2025] Intelligent Agents: From Classical AI to Modern LLMs @ Brown University, Providence, Rhode Island.
+- [Oct 22, 2025] Intelligent Agents: From Classical AI to Modern LLMs @ Boston University, Boston, MA.
+- [May 1, 2025] A tutorial on Gaussian processes, Bayesian optimization and active learning @ Boston University, Boston, MA.
+- [Apr 1, 2025] Proactive Agents for More Accessible and Inclusive Human-AI Co-creation @ Human Development Report Office of the [United Nations Development Programme (UNDP)](https://www.undp.org/), New York, USA.
+- [Jan 27, 2025] Proactive Agents for Better Interactions and Alignment with Humans @ 2025 MIT-Google Workshop, MIT, Cambridge, MA, USA.
+- [Dec 11, 2024] Pre-trained Gaussian Processes for Bayesian Optimization @ NeurIPS Journal-to-Conference Track. [video and slides](https://neurips.cc/virtual/2024/poster/98319)
+- [Dec 4, 2024] Proactive LLMs for better interactions and alignment with humans @ AE: Global Summit on Open Problems for AI at Boston Museum of Science, USA.
 - [Sep 5, 2024] Transfer Learning for  Bayesian Optimization on Homogeneous and Heterogeneous Search Spaces @ National University of Singapore (NUS), Singapore.
 - [Jun 24, 2024] Transfer Learning for  Bayesian Optimization on Homogeneous and Heterogeneous Search Spaces @ Meta Adaptive Experimentation Workshop, New York, USA.
 - [Nov 15, 2023] Towards Bridging the Gap Between Human and AI Beliefs: Gaussian Process Probes and Pre-trained Gaussian Processes @ AI Centre of University College London, UK.
