@@ -17,7 +17,7 @@ toc_sticky: true
      <div class="authors">Belinda Z. Li, Been Kim, <strong>Zi Wang</strong>         
      </div>         
      <div>         
-       <em>arXiv:2503.22674 [cs.AI], 2025</em> 
+       <em>Advances in Neural Information Processing Systems (NeurIPS), 2025</em> 
  <br> 
  
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2503.22674">PDF</a>         

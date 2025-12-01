@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Hello! I am a Senior Research Scientist at Google DeepMind, based in Cambridge, Massachusetts. My research is driven by the pursuit of intelligent decision-making, with a current emphasis on understanding and improving the alignment between human judgments and Bayesian beliefs of AI systems. Examples:
+Hello! I am a Senior Research Scientist at Google DeepMind, and a Visiting Lecturer at Harvard University. My research is driven by the pursuit of intelligent decision-making, with a current emphasis on understanding and improving the alignment between human judgments and Bayesian beliefs of AI systems. Examples:
 
 Understanding AI models via
 - [Gaussian process probes](https://arxiv.org/abs/2305.18213),
@@ -21,13 +21,9 @@ My prior experiences are in machine learning and robot learning, including Bayes
 
 
 ## Bulletin
-- Checkout the ongoing [Seminar Series on Bayesian Decision-making and Uncertainty](https://gp-seminar-series.github.io/).
+- Our paper [**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**](https://arxiv.org/abs/2503.22674) was accepted at NeurIPS 2025!
+- Checkout [2025 Seminar Series on Bayesian Decision-making and Uncertainty](https://gp-seminar-series.github.io/).
 - Our paper [**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**](https://arxiv.org/abs/2412.06771) was accepted at ICML 2025!
-- Our paper [**REDUCR: Robust data-downsampling using class priority reweighting**](https://arxiv.org/abs/2312.00486) was accepted at NeurIPS 2024!
-- Our paper [**Pre-trained Gaussian Processes for Bayesian Optimization**](https://jmlr.org/papers/v25/23-0269.html) was accepted at Journal of Machine Learning Research (JMLR)!
-- Our paper [**Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces**](https://arxiv.org/abs/2309.16597) was accepted at Transactions on Machine Learning Research (TMLR)!
-- Our paper [**Gaussian Process Probes (GPP) for Uncertainty-Aware Probing**](https://arxiv.org/abs/2305.18213) was accepted at NeurIPS 2023.
-- Our paper [**Grammar Prompting for Domain-Specific Language Generation with Large Language Models**](https://arxiv.org/abs/2305.19234) was accepted at NeurIPS 2023.
 
 
 ## Contact
