@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Hello! I am a Senior Research Scientist at Google DeepMind, and a Visiting Lecturer at Harvard University. My research is driven by the pursuit of intelligent decision-making, with a current emphasis on understanding and improving the alignment between human judgments and Bayesian beliefs of AI systems. Examples:
+Hello! I am a Senior Research Scientist at Google DeepMind and a Visiting Lecturer at Harvard University. My research is driven by the pursuit of intelligent decision-making, with a current emphasis on understanding and improving the alignment between human judgments and Bayesian beliefs of AI systems. Examples:
 
 Understanding AI models via
 - [Gaussian process probes](https://arxiv.org/abs/2305.18213),
