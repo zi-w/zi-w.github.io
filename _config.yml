@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Zi Wang, Ph.D."
   avatar           : "/images/bio.jpeg"
-  bio              : "Research Scientist"
+  bio              :
   location         : "Cambridge, MA"
   email            : "wangzi@google.com"
   uri              : "https://zi-wang.com"
