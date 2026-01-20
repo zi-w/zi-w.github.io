@@ -3,7 +3,7 @@ name: Deploy Human-AI to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - 'human-ai/**'
   workflow_dispatch:
