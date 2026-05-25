@@ -1,16 +1,59 @@
---- 
-title: "Publications" 
-layout: single_noauthor 
-permalink: /publications/ 
-author_profile: true 
-toc: true 
-toc_label: "Publication List" 
-toc_sticky: true 
 ---
+title: "Publications"
+layout: single
+permalink: /publications/
+author_profile: false
+sidebar:
+  nav: "pub_years"
+classes: wide
+---
+## 2026
+
+ <div class="publication">          
+         
+   <div class="img"><a href="https://arxiv.org/abs/2604.23099"><img class="img_responsive" src="/images/pub/default.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="huang2026proeval" href="https://arxiv.org/abs/2604.23099">ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation</a></div>         
+     <div class="authors">Yizheng Huang, Wenjun Zeng, Aditi Kumaresan, <strong>Zi Wang</strong>         
+     </div>         
+     <div>         
+       <em>International Conference on Machine Learning (ICML), 2026</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2604.23099">PDF</a>         
+           
+        <a class="btn btn--warning btn--small" href="https://github.com/google-deepmind/proeval">Code</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+         
+   <div class="img"><a href="https://arxiv.org/abs/2602.00092"><img class="img_responsive" src="/images/pub/default.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="kalibhat2026interpreting" href="https://arxiv.org/abs/2602.00092">Interpreting and Controlling Model Behavior via Constitutions for Atomic Concept Edits</a></div>         
+     <div class="authors">Neha Kalibhat, <strong>Zi Wang</strong>, Prasoon Bajpai, Drew Proud, Wenjun Zeng, Been Kim, Mani Malek         
+     </div>         
+     <div>         
+       <em>International Conference on Artificial Intelligence and Statistics (AISTATS), 2026</em> 
+ <br> 
+ 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2602.00092">PDF</a>         
+           
+        <a class="btn btn--warning btn--small" href="https://github.com/google-deepmind/atomic_concept_edits">Code</a>         
+           
+        <a class="btn btn--primary btn--small" href="http://gdm-ace.github.io/">Project page</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
 ## 2025
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2503.22674"><img class="img_responsive" src="/images/pub/questbench.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="meera" href="https://arxiv.org/abs/2503.22674">QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?</a></div>         
@@ -30,11 +73,11 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2412.06771"><img class="img_responsive" src="/images/pub/q4a.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="meera" href="https://arxiv.org/abs/2412.06771">Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty</a></div>         
-     <div class="authors">Meera Hahn*, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim and <strong>Zi Wang</strong>*         
+     <div class="authors">Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim and <strong>Zi Wang</strong>         
      </div>         
      <div>         
        <em>International Conference on Machine Learning (ICML), 2025</em> 
@@ -51,7 +94,7 @@ toc_sticky: true
 ## 2024
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2312.00486"><img class="img_responsive" src="/images/pub/reducr.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="bankes2023" href="https://arxiv.org/abs/2312.00486">REDUCR: Robust Data Downsampling Using Class Priority Reweighting</a></div>         
@@ -71,7 +114,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="http://jmlr.org/papers/v25/23-0269.html"><img class="img_responsive" src="/images/pub/hyperbo.gif"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2023" href="http://jmlr.org/papers/v25/23-0269.html">Pre-trained Gaussian processes for Bayesian optimization</a></div>         
@@ -93,7 +136,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2309.16597"><img class="img_responsive" src="/images/pub/mphd.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="zhou2023" href="https://arxiv.org/abs/2309.16597">Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces</a></div>         
@@ -114,7 +157,7 @@ toc_sticky: true
 ## 2023
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2305.18213"><img class="img_responsive" src="/images/pub/gpp.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2023gpp" href="https://arxiv.org/abs/2305.18213">Gaussian Process Probes (GPP) for Uncertainty-Aware Probing</a></div>         
@@ -134,7 +177,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2305.19234"><img class="img_responsive" src="/images/pub/grammar.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2023grammar" href="https://arxiv.org/abs/2305.19234">Grammar Prompting for Domain-Specific Language Generation with Large Language Models</a></div>         
@@ -155,7 +198,7 @@ toc_sticky: true
 ## 2022
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2207.07411"><img class="img_responsive" src="/images/pub/plex.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="tran2022" href="https://arxiv.org/abs/2207.07411">Plex: Towards Reliability using Pretrained Large Model Extensions</a></div>         
@@ -179,7 +222,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/abs/2205.13320"><img class="img_responsive" src="/images/pub/optformer.gif"></a></div>         
    <div class="text">         
      <div class="title"><a name="chen2022" href="https://arxiv.org/abs/2205.13320">Towards Learning Universal Hyperparameter Optimizers with Transformers</a></div>         
@@ -201,7 +244,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24.pdf"><img class="img_responsive" src="/images/pub/hyperboplus.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="zhou2022" href="https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/24.pdf">HyperBO+: Pre-training a universal hierarchical Gaussian process prior for Bayesian optimization</a></div>         
@@ -221,7 +264,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/pdf/2207.03084.pdf"><img class="img_responsive" src="/images/pub/hyperbo.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2022realml" href="https://arxiv.org/pdf/2207.03084.pdf">Pre-training helps Bayesian optimization too</a></div>         
@@ -244,7 +287,7 @@ toc_sticky: true
 ## 2021
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c"><img class="img_responsive" src="/images/pub/ltamp.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangIJRR2021" href="https://www.youtube.com/playlist?list=PLoWhBFPMfSzDbc8CYelsbHZa1d3uz-W_c">Learning compositional models of robot skills for task and motion planning</a></div>         
@@ -267,7 +310,7 @@ toc_sticky: true
 ## 2020
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_23.pdf"><img class="img_responsive" src="/images/pub/default.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="mariet2020" href="https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_23.pdf">Deep Uncertainty and the Search for Proteins</a></div>         
@@ -285,7 +328,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://dspace.mit.edu/handle/1721.1/128299"><img class="img_responsive" src="/images/pub/thesis.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang2020" href="https://dspace.mit.edu/handle/1721.1/128299">Robot Learning with Strong Priors</a></div>         
@@ -304,7 +347,7 @@ toc_sticky: true
 ## 2019
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf"><img class="img_responsive" src="/images/pub/spare.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="xiaICLR2019" href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf">Learning sparse relational transition models</a></div>         
@@ -322,7 +365,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://arxiv.org/pdf/1807.09962.pdf"><img class="img_responsive" src="/images/pub/score.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="kimIJRR2019" href="https://arxiv.org/pdf/1807.09962.pdf">Learning to guide task and motion planning using score-space representation</a></div>         
@@ -341,7 +384,7 @@ toc_sticky: true
 ## 2018
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="/meta_bo"><img class="img_responsive" src="/images/pub/noprior.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangNIPS2018" href="/meta_bo">Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior</a></div>         
@@ -368,7 +411,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="/projects/kitchen2d"><img class="img_responsive" src="/images/pub/kitchen2d.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangIROS2018" href="/projects/kitchen2d">Active model learning and diverse action sampling for task and motion planning</a></div>         
@@ -392,7 +435,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-aistats18.pdf"><img class="img_responsive" src="/images/pub/9.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangAISTATS2018" href="http://lis.csail.mit.edu/pubs/wang-aistats18.pdf">Batched Large-scale Bayesian Optimization in High-dimensional Spaces</a></div>         
@@ -413,7 +456,7 @@ toc_sticky: true
 ## 2017
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="/projects/mlp"><img class="img_responsive" src="/images/pub/6.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangICRA17" href="/projects/mlp">Focused Model-Learning and Planning for Non-Gaussian Continuous State-Action Systems</a></div>         
@@ -435,7 +478,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-icml17b.pdf"><img class="img_responsive" src="/images/pub/7.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangICML2017b" href="http://lis.csail.mit.edu/pubs/wang-icml17b.pdf">Max-value Entropy Search for Efficient Bayesian Optimization</a></div>         
@@ -457,7 +500,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-icml17a.pdf"><img class="img_responsive" src="/images/pub/8.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wangICML2017a" href="http://lis.csail.mit.edu/pubs/wang-icml17a.pdf">Batched High-dimensional Bayesian Optimization via Structural Kernel Learning</a></div>         
@@ -480,7 +523,7 @@ toc_sticky: true
 ## 2016
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="/projects/gp-est"><img class="img_responsive" src="/images/pub/5.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang-aistats16" href="/projects/gp-est">Optimization as Estimation with Gaussian Processes in Bandit Settings</a></div>         
@@ -508,7 +551,7 @@ toc_sticky: true
 ## 2014
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf"><img class="img_responsive" src="/images/pub/3.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="lu_nipspos_2014" href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf">Fast Learning with Noise in Deep Neural Nets</a></div>         
@@ -529,7 +572,7 @@ toc_sticky: true
  <br>
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="/projects/dnmf"><img class="img_responsive" src="/images/pub/1.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="wang_icassp_2014" href="/projects/dnmf">Discriminative Non-Negative Matrix Factorization for Single-Channel Speech Separation</a></div>         
@@ -552,7 +595,7 @@ toc_sticky: true
 ## 2013
 
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+         
    <div class="img"><a href="/projects/gctm"><img class="img_responsive" src="/images/pub/2.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="chen_nips_2013" href="/projects/gctm">Scalable Inference for Logistic-Normal Topic Models</a></div>         

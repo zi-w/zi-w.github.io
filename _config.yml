@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zi Wang"
+title                    : "Zi W.'s Homepage"
 title_separator          : "-"
 name                     : &name "Zi Wang, Ph.D."
 description              : "Zi Wang's homepage."
@@ -271,5 +271,5 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: true

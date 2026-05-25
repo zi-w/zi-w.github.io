@@ -1,3 +1,19 @@
+- ENTRYTYPE: inproceedings
+  ID: huang2026proeval
+  author: Yizheng Huang, Wenjun Zeng, Aditi Kumaresan, Zi Wang
+  booktitle: International Conference on Machine Learning (ICML)
+  title: 'ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation'
+  url: https://arxiv.org/abs/2604.23099
+  img: /images/pub/default.png
+  year: '2026'
+- ENTRYTYPE: inproceedings
+  ID: kalibhat2026interpreting
+  author: Neha Kalibhat, Zi Wang, Prasoon Bajpai, Drew Proud, Wenjun Zeng, Been Kim, Mani Malek
+  booktitle: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  title: 'Interpreting and Controlling Model Behavior via Constitutions for Atomic Concept Edits'
+  url: https://arxiv.org/abs/2602.00092
+  img: /images/pub/default.png
+  year: '2026'
 - ENTRYTYPE: journal
   ID: meera
   author: Belinda Z. Li, Been Kim, Zi Wang

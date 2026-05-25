@@ -1,5 +1,5 @@
 /* ==========================================================================
-   SIDEBAR
+   SIDEBAR — Premium Redesign
    ========================================================================== */
 
 /*
@@ -19,13 +19,9 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.9;
+    opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
-
-    &:hover {
-      opacity: 1;
-    }
 
     &.sticky {
       overflow-y: auto;
@@ -97,20 +93,8 @@
     margin-right: -1 * $right-sidebar-width;
   }
 }
+
 /*
-.splash .sidebar__right {
-  @include breakpoint($large) {
-    position: relative;
-    float: right;
-    margin-right: 0;
-  }
-
-  @include breakpoint($x-large) {
-    margin-right: 0;
-  }
-}
-
-
    Author profile and links
    ========================================================================== */
 
@@ -131,8 +115,8 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 3px;
+      border: 2px solid $border-color;
     }
   }
 }
@@ -185,7 +169,6 @@
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
 
   li:last-child {
@@ -218,7 +201,7 @@
   border-radius: $border-radius;
   background: $background-color;
   z-index: -1;
-  box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
+  box-shadow: 0 4px 12px rgba(#000, 0.08);
   cursor: default;
 
   &.is--visible {
@@ -315,4 +298,3 @@
     margin-right: initial;
   }
 }
-

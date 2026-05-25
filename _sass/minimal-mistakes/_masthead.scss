@@ -1,5 +1,5 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD — Premium Redesign
    ========================================================================== */
 
 .masthead {
@@ -10,12 +10,15 @@
   -webkit-animation-delay: 0.1s;
   animation-delay: 0.1s;
   z-index: 20;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 0.75em 1.5em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -45,7 +48,10 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
-  font-weight: bolder;
+  font-weight: 700;
+  font-size: 1.1em;
+  letter-spacing: -0.02em;
+  color: $dark-gray;
   z-index: 20;
 }
 
@@ -76,6 +82,29 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+
+  a {
+    font-weight: 500;
+    font-size: 0.9em;
+    letter-spacing: 0.01em;
+    padding: 0.25em 0;
+    position: relative;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: $primary-color;
+      transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    &:hover::after {
+      width: 100%;
+    }
+  }
 
   &--lg {
     padding-right: 2em;

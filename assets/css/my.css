@@ -1,24 +1,717 @@
-div.title {font-weight:600}
-div.title{font-size:105%}
+/* ===========================================================================
+   Premium Custom Styles — Zi Wang's Academic Portfolio
+   =========================================================================== */
 
-img.img_responsive{max-width:100%;height:auto;display:block}
-div.authors a:link,
-div.authors a:visited{color:#000000}
-div.img {display:inline-block;zoom:1;display*:inline;text-align:left;margin-left:auto;margin-right:auto;vertical-align:middle; padding-left:20px;padding-right:20px}
-div.text {display:inline-block;zoom:1;display*:inline;text-align:left;margin-left:auto;margin-right:auto;vertical-align:middle;max-width:960px; padding-left:20px;padding-right:20px}
-div.title a:hover{text-decoration:none}
-div.publication{padding-top:0px;padding-bottom:0px}
-div.publication div.img{max-width:300px;padding-right:10px}
-div.publication div.text{text-align:left}
-
-@media only screen and (max-width: 64em) {
-    div.publication div.img{display:none}
-    div.publication div.text{text-align:left}
-    div.publication {padding-top:0px;padding-bottom:10px}
-    body{font-size:80%}
-    div.twitter_feed{display:none}
+/* --------------------------------------------------------------------------
+   0. CSS Custom Properties (Design Tokens)
+   -------------------------------------------------------------------------- */
+:root {
+  --color-bg: #fafafa;
+  --color-surface: #ffffff;
+  --color-text: #1f2937;
+  --color-text-secondary: #6b7280;
+  --color-text-tertiary: #9ca3af;
+  --color-accent: #2563eb;
+  --color-accent-hover: #1d4ed8;
+  --color-accent-light: rgba(37, 99, 235, 0.08);
+  --color-border: #e5e7eb;
+  --color-border-hover: #d1d5db;
+  --color-success: #059669;
+  --color-warning: #d97706;
+  --color-danger: #dc2626;
+  --color-info: #0284c7;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.08);
+  --shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.1);
+  --transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  --font-display: "Instrument Serif", Georgia, serif;
 }
+
+/* --------------------------------------------------------------------------
+   1. Fade-in Animation
+   -------------------------------------------------------------------------- */
+
+/* Fix home page alignment: when no sidebar exists, don't float the content.
+   :has() is supported in all modern browsers (Chrome 105+, Safari 15.4+, Firefox 121+) */
+#main:not(:has(.sidebar)) .archive,
+#main:not(:has(.sidebar)) .page {
+  float: none;
+  width: 100%;
+  padding-right: 0;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.initial-content {
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* --------------------------------------------------------------------------
+   2. Author Sidebar — Premium Profile Card
+   -------------------------------------------------------------------------- */
+.sidebar .author__avatar img {
+  border-radius: 50%;
+  border: 3px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+}
+
+.sidebar .author__avatar img:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 4px var(--color-accent-light);
+  transform: scale(1.03);
+}
+
+.sidebar .author__name {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-text);
+}
+
+.sidebar .author__bio {
+  color: var(--color-text-secondary);
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.sidebar .author__urls a {
+  color: var(--color-text-secondary);
+  font-size: 0.92em;
+  border-radius: var(--radius-sm);
+  padding: 4px 6px;
+  margin: 1px 0;
+  transition: var(--transition);
+}
+
+.sidebar .author__urls a:hover {
+  color: var(--color-accent);
+  background: var(--color-accent-light);
+  text-decoration: none;
+}
+
+/* --------------------------------------------------------------------------
+   3. Publication Cards — Modern, Clean Design
+   -------------------------------------------------------------------------- */
+div.publication {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  margin-bottom: 4px;
+  transition: var(--transition);
+  box-shadow: var(--shadow-sm);
+  animation: fadeInUp 0.5s ease-out both;
+}
+
+div.publication:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+  border-color: var(--color-border-hover);
+}
+
+div.publication div.img {
+  flex: 0 0 160px;
+  max-width: 160px;
+  padding: 0;
+  margin-right: 18px;
+}
+
+div.publication div.img img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-sm);
+  display: block;
+  transition: var(--transition);
+}
+
+div.publication:hover div.img img {
+  transform: scale(1.02);
+}
+
+div.publication div.text {
+  flex: 1;
+  padding: 0;
+  text-align: left;
+  min-width: 0;
+}
+
+div.title {
+  font-size: 1.05em;
+  font-weight: 600;
+  margin-bottom: 6px;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+}
+
+div.title a {
+  color: var(--color-text);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+div.title a:hover {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+div.authors {
+  color: var(--color-text-secondary);
+  margin-bottom: 8px;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+div.authors strong {
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+div.publication em {
+  color: var(--color-text-secondary);
+  font-size: 0.88em;
+}
+
+div.publication font[color="red"] {
+  color: var(--color-accent) !important;
+  font-weight: 600;
+  font-size: 0.85em;
+  background: var(--color-accent-light);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+/* Remove redundant <br> between publications */
+div.publication + br {
+  display: none;
+}
+
+/* --------------------------------------------------------------------------
+   4. Buttons — Pill-shaped, Subtle
+   -------------------------------------------------------------------------- */
+.btn--small {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  font-size: 0.78em;
+  font-weight: 500;
+  border-radius: 20px;
+  text-decoration: none !important;
+  transition: var(--transition);
+  letter-spacing: 0.01em;
+  margin-right: 4px;
+  margin-top: 6px;
+}
+
+.btn--success.btn--small {
+  background: #ecfdf5;
+  color: #059669;
+  border: 1px solid #a7f3d0;
+}
+
+.btn--success.btn--small:hover {
+  background: #059669;
+  color: #fff;
+  border-color: #059669;
+}
+
+.btn--warning.btn--small {
+  background: #fffbeb;
+  color: #d97706;
+  border: 1px solid #fde68a;
+}
+
+.btn--warning.btn--small:hover {
+  background: #d97706;
+  color: #fff;
+  border-color: #d97706;
+}
+
+.btn--primary.btn--small {
+  background: var(--color-accent-light);
+  color: var(--color-accent);
+  border: 1px solid #bfdbfe;
+}
+
+.btn--primary.btn--small:hover {
+  background: var(--color-accent);
+  color: #fff;
+  border-color: var(--color-accent);
+}
+
+.btn--danger.btn--small {
+  background: #fef2f2;
+  color: #dc2626;
+  border: 1px solid #fecaca;
+}
+
+.btn--danger.btn--small:hover {
+  background: #dc2626;
+  color: #fff;
+  border-color: #dc2626;
+}
+
+.btn--info.btn--small {
+  background: #f0f9ff;
+  color: #0284c7;
+  border: 1px solid #bae6fd;
+}
+
+.btn--info.btn--small:hover {
+  background: #0284c7;
+  color: #fff;
+  border-color: #0284c7;
+}
+
+.btn--secondary.btn--small {
+  background: #f3f4f6;
+  color: #6b7280;
+  border: 1px solid #e5e7eb;
+}
+
+.btn--secondary.btn--small:hover {
+  background: #6b7280;
+  color: #fff;
+  border-color: #6b7280;
+}
+
+/* --------------------------------------------------------------------------
+   5. Page Headings — Elegant Section Headers
+   -------------------------------------------------------------------------- */
+.page__content h2 {
+  font-size: 1.4em;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid var(--color-border);
+  letter-spacing: -0.02em;
+}
+
+.page__content h2:first-child {
+  margin-top: 0.5em;
+}
+
+/* --------------------------------------------------------------------------
+   6. Video Embed Container
+   -------------------------------------------------------------------------- */
+.page__content div[style*="padding-bottom: 56.25%"] {
+  border-radius: var(--radius-md) !important;
+  border: 1px solid var(--color-border) !important;
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+
+/* --------------------------------------------------------------------------
+   7. Bulletin / News Section
+   -------------------------------------------------------------------------- */
+.page__content ul {
+  padding-left: 1.2em;
+}
+
+.page__content li {
+  line-height: 1.7;
+  color: var(--color-text);
+}
+
+.page__content li a {
+  text-decoration: none;
+  color: var(--color-accent);
+  font-weight: 500;
+}
+
+.page__content li a:hover {
+  color: var(--color-accent-hover);
+  text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------
+   8. TOC (Table of Contents) — Sidebar on Publications Page
+   -------------------------------------------------------------------------- */
+.toc {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.toc .nav__title {
+  background: var(--color-text);
+  color: #fff;
+  border-radius: var(--radius-md) var(--radius-md) 0 0;
+  font-size: 0.85em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.toc .toc__menu a {
+  color: var(--color-text-secondary);
+  font-size: 0.88em;
+  border-bottom: 1px solid var(--color-border);
+  padding: 6px 12px;
+  transition: var(--transition);
+}
+
+.toc .toc__menu a:hover {
+  color: var(--color-accent);
+  background: var(--color-accent-light);
+}
+
+/* --------------------------------------------------------------------------
+   9. Talks / Teaching / Misc Pages — List Styling
+   -------------------------------------------------------------------------- */
+.page__content > ul > li {
+  padding: 4px 0;
+  border-bottom: 1px solid transparent;
+}
+
+/* --------------------------------------------------------------------------
+   10. CV Embed
+   -------------------------------------------------------------------------- */
+.page__content iframe {
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border) !important;
+  box-shadow: var(--shadow-md);
+}
+
+/* --------------------------------------------------------------------------
+   11. Link Refinements
+   -------------------------------------------------------------------------- */
+.page__content p a:not(.btn) {
+  text-decoration: none;
+  color: var(--color-accent);
+  border-bottom: 1px solid rgba(37, 99, 235, 0.2);
+  transition: var(--transition);
+}
+
+.page__content p a:not(.btn):hover {
+  border-bottom-color: var(--color-accent);
+}
+
+/* --------------------------------------------------------------------------
+   12. Greedy Nav Override (Masthead)
+   -------------------------------------------------------------------------- */
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  color: #374151;
+}
+
+.greedy-nav a:hover {
+  color: var(--color-accent);
+}
+
+.greedy-nav .visible-links a {
+  color: #4b5563;
+  font-weight: 500;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: var(--color-accent);
+}
+
+/* --------------------------------------------------------------------------
+   13. Responsive Adjustments
+   -------------------------------------------------------------------------- */
+@media only screen and (max-width: 64em) {
+  div.publication {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  div.publication div.img {
+    max-width: 100%;
+    flex: none;
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+  div.publication div.img img {
+    max-width: 200px;
+  }
+  .twitter_feed {
+    display: none;
+  }
+}
+
 @media only screen and (min-width: 64em) {
-    div.publication div.img{max-width:23%}
-    div.publication div.text{max-width:72%;text-align:left}
+  div.publication div.img {
+    max-width: 160px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  div.publication {
+    padding: 16px;
+  }
+  div.title {
+    font-size: 1em;
+  }
+  .page__content h2 {
+    font-size: 1.2em;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   14. Page Title Styling
+   -------------------------------------------------------------------------- */
+.page__title {
+  font-size: 1.6em;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--color-text);
+}
+
+/* --------------------------------------------------------------------------
+   15. Archive Page Tweaks (Home layout)
+   -------------------------------------------------------------------------- */
+.archive {
+  font-size: 0.98em;
+}
+
+/* --------------------------------------------------------------------------
+   15b. Publications TOC — prevent overlap with cards
+   -------------------------------------------------------------------------- */
+.page__content .sidebar__right {
+  margin-bottom: 1.5em;
+}
+
+.page__content .sidebar__right + h2,
+.page__content .sidebar__right + div.publication {
+  clear: both;
+}
+
+/* --------------------------------------------------------------------------
+   15c. Publication Year Sidebar Nav — larger font & spacing
+   -------------------------------------------------------------------------- */
+.sidebar .nav__list .nav__items {
+  font-size: 1.1em;
+}
+
+.sidebar .nav__list .nav__items a {
+  padding: 0.4em 0;
+  line-height: 2;
+}
+
+.sidebar .nav__list .nav__items li {
+  margin-bottom: 0.15em;
+}
+
+.sidebar .nav__title {
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-secondary);
+  margin-bottom: 0.5em;
+}
+
+/* --------------------------------------------------------------------------
+   16. Staggered fade-in for publication cards
+   -------------------------------------------------------------------------- */
+div.publication:nth-child(1) { animation-delay: 0.05s; }
+div.publication:nth-child(2) { animation-delay: 0.1s; }
+div.publication:nth-child(3) { animation-delay: 0.15s; }
+div.publication:nth-child(4) { animation-delay: 0.2s; }
+div.publication:nth-child(5) { animation-delay: 0.25s; }
+div.publication:nth-child(6) { animation-delay: 0.3s; }
+
+/* --------------------------------------------------------------------------
+   17. Footer Override for Dark Theme
+   -------------------------------------------------------------------------- */
+.page__footer {
+  border-top: none;
+}
+
+.page__footer a:visited {
+  color: #374151;
+}
+
+/* --------------------------------------------------------------------------
+   18. Search Styles
+   -------------------------------------------------------------------------- */
+.search-content {
+  background: var(--color-surface);
+}
+
+/* --------------------------------------------------------------------------
+   19. Print Styles Override
+   -------------------------------------------------------------------------- */
+@media print {
+  div.publication {
+    box-shadow: none;
+    border: 1px solid #ddd;
+    break-inside: avoid;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   20. Smooth Focus Ring
+   -------------------------------------------------------------------------- */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* --------------------------------------------------------------------------
+   21. Publication Link Stylesheet Cleanup
+   -------------------------------------------------------------------------- */
+div.publication link {
+  display: none;
+}
+
+/* --------------------------------------------------------------------------
+   22. Hero Section — Home Page (Photo + Text)
+   -------------------------------------------------------------------------- */
+.hero-section {
+  padding: 32px 0 28px;
+  margin-bottom: 24px;
+  border-bottom: 2px solid var(--color-border);
+  animation: fadeInUp 0.5s ease-out both;
+}
+
+.hero-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.hero-photo {
+  flex-shrink: 0;
+}
+
+.hero-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+}
+
+.hero-avatar:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 4px var(--color-accent-light);
+  transform: scale(1.03);
+}
+
+.hero-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.hero-name {
+  font-size: 2.2em;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: var(--color-text);
+  margin: 0 0 6px;
+  line-height: 1.1;
+}
+
+.hero-title {
+  font-size: 1.1em;
+  font-weight: 400;
+  color: var(--color-text-secondary);
+  margin: 0 0 14px;
+  letter-spacing: -0.01em;
+  line-height: 1.5;
+}
+
+.hero-title a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: none;
+}
+
+.hero-title a:hover {
+  color: var(--color-accent-hover);
+}
+
+.hero-tagline {
+  font-size: 1em;
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+  margin: 0 0 18px;
+  max-width: 640px;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.hero-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 14px;
+  font-size: 0.85em;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  text-decoration: none !important;
+  transition: var(--transition);
+}
+
+.hero-link:hover {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+  background: var(--color-accent-light);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+@media only screen and (max-width: 600px) {
+  .hero-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .hero-avatar {
+    width: 120px;
+    height: 120px;
+  }
+  .hero-name {
+    font-size: 1.7em;
+  }
+  .hero-title {
+    font-size: 1em;
+  }
+  .hero-tagline {
+    font-size: 0.95em;
+  }
+  .hero-links {
+    justify-content: center;
+  }
+  .hero-section {
+    padding: 20px 0 20px;
+  }
 }

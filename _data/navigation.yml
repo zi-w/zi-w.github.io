@@ -5,9 +5,42 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/
-  - title: "CV"
-    url: /CV/
   - title: "Teaching"
     url: /teaching/
-  - title: "MISC"
+  - title: "CV"
+    url: /CV/
+  - title: "Misc"
     url: /misc/
+  - title: "Contact"
+    url: /contact/
+
+# Publication years sidebar
+pub_years:
+  - title: "By Year"
+    children:
+      - title: "2026"
+        url: /publications/#2026
+      - title: "2025"
+        url: /publications/#2025
+      - title: "2024"
+        url: /publications/#2024
+      - title: "2023"
+        url: /publications/#2023
+      - title: "2022"
+        url: /publications/#2022
+      - title: "2021"
+        url: /publications/#2021
+      - title: "2020"
+        url: /publications/#2020
+      - title: "2019"
+        url: /publications/#2019
+      - title: "2018"
+        url: /publications/#2018
+      - title: "2017"
+        url: /publications/#2017
+      - title: "2016"
+        url: /publications/#2016
+      - title: "2014"
+        url: /publications/#2014
+      - title: "2013"
+        url: /publications/#2013

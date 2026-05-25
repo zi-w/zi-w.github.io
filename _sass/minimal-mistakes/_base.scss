@@ -1,11 +1,14 @@
 /* ==========================================================================
-   BASE ELEMENTS
+   BASE ELEMENTS — Premium Redesign
    ========================================================================== */
 
 html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -13,7 +16,9 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.7;
+  letter-spacing: -0.011em;
+  background-color: $background-color;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -28,9 +33,11 @@ h4,
 h5,
 h6 {
   margin: 2em 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.25;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: $darker-gray;
 }
 
 h1 {
@@ -108,10 +115,11 @@ abbr[data-original-title] {
 
 blockquote {
   margin: 2em 1em 2em 0;
-  padding-left: 1em;
+  padding-left: 1.25em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  border-left: 3px solid $primary-color;
+  color: $muted-text-color;
 
   cite {
     font-style: italic;
@@ -126,6 +134,9 @@ blockquote {
 /* links */
 
 a {
+  color: $link-color;
+  transition: color 0.2s ease;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -182,7 +193,7 @@ td > code {
 
 hr {
   display: block;
-  margin: 1em 0;
+  margin: 2em 0;
   border: 0;
   border-top: 1px solid $border-color;
 }
@@ -289,15 +300,6 @@ svg:not(:root) {
 
 /**
  * Removes margins, padding, and bullet points from navigation lists
- *
- * Example usage:
- * <nav>
- *    <ul>
- *      <li><a href="#link-1">Link 1</a></li>
- *      <li><a href="#link-2">Link 2</a></li>
- *      <li><a href="#link-3">Link 3</a></li>
- *    </ul>
- *  </nav>
  */
 
 nav {
@@ -354,4 +356,13 @@ input[type="submit"],
 .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+/*
+   Selection styling
+   ========================================================================== */
+
+::selection {
+  background: rgba(37, 99, 235, 0.15);
+  color: $darker-gray;
 }
